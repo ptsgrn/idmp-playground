@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Interactive Knowledge Graph (D3.js)</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      min-height: 100vh;
+    }
+
+    .link {
+      stroke: #999;
+      stroke-opacity: 0.6;
+    }
+
+    .node circle {
+      stroke: #fff;
+      stroke-width: 2px;
+    }
+
+    .tooltip {
+      position: absolute;
+      text-align: center;
+      padding: 8px;
+      font-size: 14px;
+      background: rgba(0, 0, 0, 0.8);
+      color: #fff;
+      border-radius: 8px;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .graph-canvas {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+
+<body>
+  <h1 style="text-align: center;">Interactive Knowledge Graph</h1>
+  <div id="tooltip" class="tooltip"></div>
+  <svg class="graph-canvas"></svg>
+
+  <script>
+    // Fetch data from Django backend
+    fetch("/graph/data/")
+      .then(response => response.json())
+      .then(data => {
+        const width = window.innerWidth;
+        const height = window.innerHeight;
+
+        const svg = d3.select(".graph-canvas")
+          .attr("width", width)
+          .attr("height", height)
+          .attr("viewBox", [-width / 2, -height / 2, width, height])
+          .attr("style", "max-width: 100%; height: auto;");
+
+        const color = d3.scaleOrdinal(d3.schemeCategory10);
+
+        // Add zoom behavior
+        const zoom = d3.zoom()
+          .scaleExtent([0.5, 10]) // Zoom range
+          .on("zoom", (event) => {
+            g.attr("transform", event.transform);
+          });
+
+        svg.call(zoom);
+
+        const g = svg.append("g");
+
+        // Tooltip setup
+        const tooltip = d3.select("#tooltip");
+
+        // Force simulation for node positioning
+        const simulation = d3.forceSimulation(data.nodes)
+          .force("link", d3.forceLink(data.links).id(d => d.id))
+          .force("charge", d3.forceManyBody())
+          .force("x", d3.forceX())
+          .force("y", d3.forceY());
+
+        // Draw links (edges)
+        const link = g.append("g")
+          .attr("stroke", "#999")
+          .selectAll("line")
+          .data(data.links)
+          .enter().append("line")
+          .attr("class", "link")
+          .attr("stroke-width", 1);
+
+        // Draw nodes (circles)
+        const node = g
+          .append("g")
+          .attr("stroke", "#fff")
+          .selectAll("circle")
+          .data(data.nodes)
+          .enter().append("circle")
+          .attr("r", 5)
+          .attr("fill", d => color(d.type))
+          .call(drag(simulation))
+          .on("mouseover", (event, d) => {
+            tooltip.transition().duration(50).style("opacity", 1);
+            tooltip.html(`<strong>Type:</strong> ${d.type}<br><strong>Name:</strong> ${d.label}`)
+              .style("left", (event.pageX) + "px")
+              .style("top", (event.pageY) + "px");
+          })
+          .on("mouseout", () => {
+            tooltip.transition().duration(500).style("opacity", 0);
+          });
+
+        // Add node labels
+        const labels = g.append("g")
+          .selectAll("text")
+          .data(data.nodes)
+          .enter().append("text")
+          .attr("x", 0)
+          .attr("y", 0)
+          .text(d => d.label)
+          .attr("fill", "#666")
+          .attr("font-size", "5px");
+
+        // Update positions on each tick
+        simulation.on("tick", () => {
+          link
+            .attr("x1", d => d.source.x)
+            .attr("y1", d => d.source.y)
+            .attr("x2", d => d.target.x)
+            .attr("y2", d => d.target.y);
+
+          node
+            .attr("cx", d => d.x)
+            .attr("cy", d => d.y);
+
+          labels
+            .attr("x", d => d.x)
+            .attr("y", d => d.y);
+        });
+
+        // Drag behavior for nodes
+        function drag(simulation) {
+          return d3.drag()
+            .on("start", (event, d) => {
+              if (!event.active) simulation.alphaTarget(0.3).restart();
+              d.fx = d.x;
+              d.fy = d.y;
+            })
+            .on("drag", (event, d) => {
+              d.fx = event.x;
+              d.fy = event.y;
+            })
+            .on("end", (event, d) => {
+              if (!event.active) simulation.alphaTarget(0);
+              d.fx = null;
+              d.fy = null;
+            });
+        }
+      });
+  </script>
+</body>
+
+</html>

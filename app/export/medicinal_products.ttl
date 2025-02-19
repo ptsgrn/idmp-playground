@@ -1,0 +1,4727 @@
+@prefix idmp: <http://www.example.org/idmp#> .
+
+<http://example.org/idmp/1> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/1> ;
+    idmp:name "ABACAVIR SULFATE/LAMIVUDINE TABLETS 600 MG/300 MG" ;
+    idmp:registrationNumber "2C 10/56(NG)" .
+
+<http://example.org/idmp/10> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "FALBEN" ;
+    idmp:registrationNumber "1A 1044/44" .
+
+<http://example.org/idmp/100> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "TOVASTIN 40" ;
+    idmp:registrationNumber "1A 44/62(NG)" .
+
+<http://example.org/idmp/101> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "ATORVIN 10" ;
+    idmp:registrationNumber "1A 39/61(NG)" .
+
+<http://example.org/idmp/102> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "ATORVIN 40" ;
+    idmp:registrationNumber "1A 41/61(NG)" .
+
+<http://example.org/idmp/103> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "ATROPINE SULFATE INJECTION 0.60 MG/ML" ;
+    idmp:registrationNumber "1A 680/43" .
+
+<http://example.org/idmp/104> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/37> ;
+    idmp:name "IMURAN (TABLETS 50 MG)" ;
+    idmp:registrationNumber "1C 247/52" .
+
+<http://example.org/idmp/105> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/38> ;
+    idmp:name "IMUPRIN 50" ;
+    idmp:registrationNumber "1C 75/53" .
+
+<http://example.org/idmp/106> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/39> ;
+    idmp:name "AZATHIOPRINE PCH" ;
+    idmp:registrationNumber "1C 47/55" .
+
+<http://example.org/idmp/107> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/40> ;
+    idmp:name "FENISAL" ;
+    idmp:registrationNumber "1A 412/48" .
+
+<http://example.org/idmp/108> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/41> ;
+    idmp:name "LIORESAL 10" ;
+    idmp:registrationNumber "1C 291/42" .
+
+<http://example.org/idmp/109> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "MUSCLOFEN" ;
+    idmp:registrationNumber "1A 272/52" .
+
+<http://example.org/idmp/11> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/9> ;
+    idmp:name "ALDREN 70 TABLETS" ;
+    idmp:registrationNumber "1C 27/52(NG)" .
+
+<http://example.org/idmp/110> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "LIOBAC" ;
+    idmp:registrationNumber "1A 403/48" .
+
+<http://example.org/idmp/111> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/43> ;
+    idmp:name "BACLOSAL" ;
+    idmp:registrationNumber "1A 759/43" .
+
+<http://example.org/idmp/112> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/35> ;
+    idmp:name "BACLOFEN TABLETS" ;
+    idmp:registrationNumber "1A 246/44" .
+
+<http://example.org/idmp/113> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "BISLOC 2.5" ;
+    idmp:registrationNumber "1A 32/55(NG)" .
+
+<http://example.org/idmp/114> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "BISLOC 5" ;
+    idmp:registrationNumber "1A 33/55(NG)" .
+
+<http://example.org/idmp/115> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "CALTAB" ;
+    idmp:registrationNumber "1A 251/45" .
+
+<http://example.org/idmp/116> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "CALTAB-835" ;
+    idmp:registrationNumber "1A 289/45" .
+
+<http://example.org/idmp/117> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "CALTAB-1000" ;
+    idmp:registrationNumber "1A 338/50" .
+
+<http://example.org/idmp/118> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/44> ;
+    idmp:name "CHALKTAB-350" ;
+    idmp:registrationNumber "1A 47/45" .
+
+<http://example.org/idmp/119> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/44> ;
+    idmp:name "CHALKCAP-1000" ;
+    idmp:registrationNumber "1A 48/49" .
+
+<http://example.org/idmp/12> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/10> ;
+    idmp:name "ZYLORIC (TABLETS 100 MG)" ;
+    idmp:registrationNumber "1C 59/55" .
+
+<http://example.org/idmp/120> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "CACIUM GLUCONATE INJECTION" ;
+    idmp:registrationNumber "1A 3/48" .
+
+<http://example.org/idmp/121> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/45> ;
+    idmp:name "BLOPRESS 16 MG PLUS" ;
+    idmp:registrationNumber "2B 1/48(N)" .
+
+<http://example.org/idmp/122> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "TODESAAR 16" ;
+    idmp:registrationNumber "1A 47/56(NG)" .
+
+<http://example.org/idmp/123> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "FINIL 16" ;
+    idmp:registrationNumber "1A 16/59(NG)" .
+
+<http://example.org/idmp/124> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "GEMZIL" ;
+    idmp:registrationNumber "1A 172/37" .
+
+<http://example.org/idmp/125> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/38> ;
+    idmp:name "EPSITRON 25" ;
+    idmp:registrationNumber "1C 130/34" .
+
+<http://example.org/idmp/126> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "CARMAPINE TABLETS" ;
+    idmp:registrationNumber "1A 527/33" .
+
+<http://example.org/idmp/127> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "CARATEN 12.5" ;
+    idmp:registrationNumber "1A 21/50(NG)" .
+
+<http://example.org/idmp/128> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "CARATEN 6.25" ;
+    idmp:registrationNumber "1A 22/50(NG)" .
+
+<http://example.org/idmp/129> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "CARATEN 25" ;
+    idmp:registrationNumber "1A 9/49(NG)" .
+
+<http://example.org/idmp/13> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/10> ;
+    idmp:name "ZYLORIC (TABLETS 300 MG)" ;
+    idmp:registrationNumber "1C 60/55" .
+
+<http://example.org/idmp/130> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "TOCARLOL 6.25" ;
+    idmp:registrationNumber "1A 48/64(NG)" .
+
+<http://example.org/idmp/131> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "TOCARLOL 25" ;
+    idmp:registrationNumber "1A 19/51(NG)" .
+
+<http://example.org/idmp/132> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "CARVOLOL (6.25 MG)" ;
+    idmp:registrationNumber "1A 33/62(NG)" .
+
+<http://example.org/idmp/133> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/46> ;
+    idmp:name "ZOFALIN" ;
+    idmp:registrationNumber "1A 145/42" .
+
+<http://example.org/idmp/134> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "FAZOLIN INJECTION 1 G" ;
+    idmp:registrationNumber "1A 1807/30" .
+
+<http://example.org/idmp/135> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/17> ;
+    idmp:name "CEFAZILLIN" ;
+    idmp:registrationNumber "1A 440/52" .
+
+<http://example.org/idmp/136> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SAMNIR 100 MG CAPSULE" ;
+    idmp:registrationNumber "1A 7/48(NG)" .
+
+<http://example.org/idmp/137> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SAMNIR SUSPENSION" ;
+    idmp:registrationNumber "1A 46/50(NG)" .
+
+<http://example.org/idmp/138> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/43> ;
+    idmp:name "ZEFTAM M.H." ;
+    idmp:registrationNumber "1A 355/40" .
+
+<http://example.org/idmp/139> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/47> ;
+    idmp:name "ZEDIM (1 G INJECTION)" ;
+    idmp:registrationNumber "1C 332/49" .
+
+<http://example.org/idmp/14> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "ALLOPURINOL TABLET" ;
+    idmp:registrationNumber "1A 77/32" .
+
+<http://example.org/idmp/140> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "CEF-4 (2 G INJ)" ;
+    idmp:registrationNumber "1A 201/58" .
+
+<http://example.org/idmp/141> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/48> ;
+    idmp:name "REX-3" ;
+    idmp:registrationNumber "1C 8/61" .
+
+<http://example.org/idmp/142> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "CEF-3 INJECTION IV (2 G)" ;
+    idmp:registrationNumber "1A 117/52" .
+
+<http://example.org/idmp/143> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "CEF-3 INJECTION IV (1.0 G)" ;
+    idmp:registrationNumber "1A 554/34" .
+
+<http://example.org/idmp/144> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/49> ;
+    idmp:name "TRIXOPHIN" ;
+    idmp:registrationNumber "1C 175/55" .
+
+<http://example.org/idmp/145> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/50> ;
+    idmp:name "ZINNAT (SUSPENSION 125 MG)" ;
+    idmp:registrationNumber "1C 171/48" .
+
+<http://example.org/idmp/146> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "CYBEC (200 MG CAPSULE)" ;
+    idmp:registrationNumber "1A 18/58(NG)" .
+
+<http://example.org/idmp/147> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "CELXIB 400" ;
+    idmp:registrationNumber "1A 11/62(NG)" .
+
+<http://example.org/idmp/148> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "CELXIB 200" ;
+    idmp:registrationNumber "1A 71/60(NG)" .
+
+<http://example.org/idmp/149> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "CHLOROQUINE PHOSPHATE TABLETS 250 MG" ;
+    idmp:registrationNumber "1A 232/45" .
+
+<http://example.org/idmp/15> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "PURIDE" ;
+    idmp:registrationNumber "1A 1461/28" .
+
+<http://example.org/idmp/150> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/51> ;
+    idmp:name "CHLORPHENIRAMINE MALEATE (YELLOW)" ;
+    idmp:registrationNumber "1A 2710/29" .
+
+<http://example.org/idmp/151> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "HISTATAB TABLETS" ;
+    idmp:registrationNumber "1A 1243/30" .
+
+<http://example.org/idmp/152> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "CHLORPHENIRAMINE MALEATE" ;
+    idmp:registrationNumber "1A 1948/29" .
+
+<http://example.org/idmp/153> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "CHLOPHE" ;
+    idmp:registrationNumber "1A 132/44" .
+
+<http://example.org/idmp/154> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "BESTAZOL 100" ;
+    idmp:registrationNumber "1A 11/60(NG)" .
+
+<http://example.org/idmp/155> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "CILOSOL" ;
+    idmp:registrationNumber "1A 44/53(NG)" .
+
+<http://example.org/idmp/156> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "C-PELA" ;
+    idmp:registrationNumber "1A 458/41" .
+
+<http://example.org/idmp/157> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/2> ;
+    idmp:name "CIPROXYL 500" ;
+    idmp:registrationNumber "1A 798/43" .
+
+<http://example.org/idmp/158> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "PROFLOX" ;
+    idmp:registrationNumber "1A 61/37" .
+
+<http://example.org/idmp/159> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "FLOXCIPRO 500" ;
+    idmp:registrationNumber "1A 222/51" .
+
+<http://example.org/idmp/16> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/11> ;
+    idmp:name "XANDASE" ;
+    idmp:registrationNumber "1A 2469/28" .
+
+<http://example.org/idmp/160> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "CIFLOXIN INFUSION (2MG/ML)" ;
+    idmp:registrationNumber "1A 32/60" .
+
+<http://example.org/idmp/161> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "CLACINA" ;
+    idmp:registrationNumber "1A 13/52(NG)" .
+
+<http://example.org/idmp/162> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "CLINDA GPO 150" ;
+    idmp:registrationNumber "1A 276/54" .
+
+<http://example.org/idmp/163> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "CLINDA GPO 300" ;
+    idmp:registrationNumber "1A 277/54" .
+
+<http://example.org/idmp/164> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/54> ;
+    idmp:name "APOLETS" ;
+    idmp:registrationNumber "1C 61/51(NG)" .
+
+<http://example.org/idmp/165> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/55> ;
+    idmp:name "CLOPIDOGREL TABLETS USP 75 MG" ;
+    idmp:registrationNumber "1C 17/57(NG)" .
+
+<http://example.org/idmp/166> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/9> ;
+    idmp:name "OKLOT" ;
+    idmp:registrationNumber "1C 9/60(NG)" .
+
+<http://example.org/idmp/167> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "CLOPIDOGREL GPO (75 MG)" ;
+    idmp:registrationNumber "1A 59/60(NG)" .
+
+<http://example.org/idmp/168> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/56> ;
+    idmp:name "LYMA CREAM" ;
+    idmp:registrationNumber "1A 621/43" .
+
+<http://example.org/idmp/169> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/2> ;
+    idmp:name "FANGO CREAM" ;
+    idmp:registrationNumber "1A 339/44" .
+
+<http://example.org/idmp/17> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/12> ;
+    idmp:name "ALLORIC" ;
+    idmp:registrationNumber "1A 499/38" .
+
+<http://example.org/idmp/170> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/57> ;
+    idmp:name "CANDEX CREAM" ;
+    idmp:registrationNumber "1A 136/34" .
+
+<http://example.org/idmp/171> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/58> ;
+    idmp:name "CHINGAZOL CREAM" ;
+    idmp:registrationNumber "1A 255/40" .
+
+<http://example.org/idmp/172> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/59> ;
+    idmp:name "FUNGICON CREAM" ;
+    idmp:registrationNumber "1A 1134/44" .
+
+<http://example.org/idmp/173> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/60> ;
+    idmp:name "CANESTEN" ;
+    idmp:registrationNumber "1C 12/59" .
+
+<http://example.org/idmp/174> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/61> ;
+    idmp:name "CLOMAZ (CREAM)" ;
+    idmp:registrationNumber "1A 556/30" .
+
+<http://example.org/idmp/175> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "CLOTRIDERM" ;
+    idmp:registrationNumber "1A 640/40" .
+
+<http://example.org/idmp/176> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/62> ;
+    idmp:name "CLOMAZOL CREAM" ;
+    idmp:registrationNumber "1A 782/30" .
+
+<http://example.org/idmp/177> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "COTTRA CREAM" ;
+    idmp:registrationNumber "1A 294/57" .
+
+<http://example.org/idmp/178> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "MYDA CREAM" ;
+    idmp:registrationNumber "1A 726/32" .
+
+<http://example.org/idmp/179> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/64> ;
+    idmp:name "CANDINAS CREAM" ;
+    idmp:registrationNumber "1A 1198/29" .
+
+<http://example.org/idmp/18> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "ALLOPURINOL TABLETS (100 MG)" ;
+    idmp:registrationNumber "1A 256/45" .
+
+<http://example.org/idmp/180> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "CANASONE" ;
+    idmp:registrationNumber "1A 155/48" .
+
+<http://example.org/idmp/181> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/65> ;
+    idmp:name "CANECIN CREAM" ;
+    idmp:registrationNumber "1A 622/31" .
+
+<http://example.org/idmp/182> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/66> ;
+    idmp:name "KLAMACIN" ;
+    idmp:registrationNumber "1A 1838/29" .
+
+<http://example.org/idmp/183> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/67> ;
+    idmp:name "CANESTEN" ;
+    idmp:registrationNumber "1C 161/49" .
+
+<http://example.org/idmp/184> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/68> ;
+    idmp:name "CANDINOX 1" ;
+    idmp:registrationNumber "1A 433/51" .
+
+<http://example.org/idmp/185> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/62> ;
+    idmp:name "CLOMAZOL VAGINAL TABLETS" ;
+    idmp:registrationNumber "1A 779/30" .
+
+<http://example.org/idmp/186> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/33> ;
+    idmp:name "P-GYZOLE" ;
+    idmp:registrationNumber "1A 607/42" .
+
+<http://example.org/idmp/187> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "STARDA VAGINAL-500" ;
+    idmp:registrationNumber "1A 119/52" .
+
+<http://example.org/idmp/188> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DEFUNGO VAGINAL TABLET" ;
+    idmp:registrationNumber "1A 2594/28" .
+
+<http://example.org/idmp/189> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DEFUNGO 1" ;
+    idmp:registrationNumber "1A 425/48" .
+
+<http://example.org/idmp/19> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "ALPRAZOLAM (1.0 MG)" ;
+    idmp:registrationNumber "na-da17da3f18a2f4293117844a060cd0" .
+
+<http://example.org/idmp/190> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "MYCODA VAGINAL TABLET" ;
+    idmp:registrationNumber "1A 512/27" .
+
+<http://example.org/idmp/191> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/12> ;
+    idmp:name "CANAZOL VAGINAL TABLETS 500 MG" ;
+    idmp:registrationNumber "1A 39/48" .
+
+<http://example.org/idmp/192> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/65> ;
+    idmp:name "CANECIN 500" ;
+    idmp:registrationNumber "1A 407/32" .
+
+<http://example.org/idmp/193> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "CLORIL 100 MG" ;
+    idmp:registrationNumber "1A 20/47(NG)" .
+
+<http://example.org/idmp/194> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "CLOZAPIN 25" ;
+    idmp:registrationNumber "1A 48/50(NG)" .
+
+<http://example.org/idmp/195> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "CLOZAPIN 100" ;
+    idmp:registrationNumber "1A 49/50(NG)" .
+
+<http://example.org/idmp/196> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "CLOPAZE 25" ;
+    idmp:registrationNumber "1A 24/42(NG)" .
+
+<http://example.org/idmp/197> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "CLOPAZE 100" ;
+    idmp:registrationNumber "1A 25/42(NG)" .
+
+<http://example.org/idmp/198> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "PROCHIC" ;
+    idmp:registrationNumber "1A 164/46" .
+
+<http://example.org/idmp/199> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "KOJI" ;
+    idmp:registrationNumber "1A 282/56" .
+
+<http://example.org/idmp/2> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/2> ;
+    idmp:name "VIZO 400" ;
+    idmp:registrationNumber "1A 394/48" .
+
+<http://example.org/idmp/20> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "ALPRAZOLAM 0.5 MG" ;
+    idmp:registrationNumber "na-0e800b06de378db3ea3548e8d30673" .
+
+<http://example.org/idmp/200> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "COLCHILY" ;
+    idmp:registrationNumber "1A 296/38" .
+
+<http://example.org/idmp/201> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "GOUTIC" ;
+    idmp:registrationNumber "1A 445/52" .
+
+<http://example.org/idmp/202> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "TOLCHICINE" ;
+    idmp:registrationNumber "1A 74/57" .
+
+<http://example.org/idmp/203> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "MELLISTIN 150 MG INJECTION" ;
+    idmp:registrationNumber "1A 29/57" .
+
+<http://example.org/idmp/204> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/70> ;
+    idmp:name "HAWON CYCLOSERINE CAP" ;
+    idmp:registrationNumber "1C 386/49" .
+
+<http://example.org/idmp/205> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/71> ;
+    idmp:name "CYCLOSERINE CAPSULES MEIJI" ;
+    idmp:registrationNumber "1A 307/46" .
+
+<http://example.org/idmp/206> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "ALLORA 5" ;
+    idmp:registrationNumber "1A 32/60(NG)" .
+
+<http://example.org/idmp/207> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/32> ;
+    idmp:name "TOPICORTE" ;
+    idmp:registrationNumber "1A 665/40" .
+
+<http://example.org/idmp/208> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "TOPOXY" ;
+    idmp:registrationNumber "1A 243/57" .
+
+<http://example.org/idmp/209> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/30> ;
+    idmp:name "DEXYLIN" ;
+    idmp:registrationNumber "2A 342/30" .
+
+<http://example.org/idmp/21> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "ALPRAZOLAM (0.25 MG)" ;
+    idmp:registrationNumber "na-d5bcaeda1d0e24cdeca2ee4cb0399a" .
+
+<http://example.org/idmp/210> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/72> ;
+    idmp:name "DEXOPH EYE-EAR DROPS" ;
+    idmp:registrationNumber "2A 911/27" .
+
+<http://example.org/idmp/211> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "EYEDEX" ;
+    idmp:registrationNumber "2A 1037/28" .
+
+<http://example.org/idmp/212> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/73> ;
+    idmp:name "VESOPH (EYE-EAR DROPS)" ;
+    idmp:registrationNumber "2A 124/48" .
+
+<http://example.org/idmp/213> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/61> ;
+    idmp:name "LODEXA" ;
+    idmp:registrationNumber "1A 2578/28" .
+
+<http://example.org/idmp/214> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/61> ;
+    idmp:name "LODEXA-5" ;
+    idmp:registrationNumber "1A 1347/30" .
+
+<http://example.org/idmp/215> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/17> ;
+    idmp:name "DEXTON" ;
+    idmp:registrationNumber "1A 829/30" .
+
+<http://example.org/idmp/216> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/66> ;
+    idmp:name "TUSCO" ;
+    idmp:registrationNumber "1A 213/36" .
+
+<http://example.org/idmp/217> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/33> ;
+    idmp:name "A-TUSSIN SYRUP" ;
+    idmp:registrationNumber "1A 207/36" .
+
+<http://example.org/idmp/218> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "ZOPAM 2" ;
+    idmp:registrationNumber "P1A 31/53" .
+
+<http://example.org/idmp/219> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "ZOPAM 5" ;
+    idmp:registrationNumber "P1A 32/53" .
+
+<http://example.org/idmp/22> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "ALPRAZOLAM (0.5 MG)" ;
+    idmp:registrationNumber "na-5c6dd2be7e1b3cdf36a3e7786189be" .
+
+<http://example.org/idmp/220> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "DIAZEPAM TABLETS 5 MG" ;
+    idmp:registrationNumber "P1A 10/58" .
+
+<http://example.org/idmp/221> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "DIAZEPAM TABLETS 10 MG" ;
+    idmp:registrationNumber "P1A 11/58" .
+
+<http://example.org/idmp/222> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "DIAZEPAM TABLETS 2 MG" ;
+    idmp:registrationNumber "P1A 9/58" .
+
+<http://example.org/idmp/223> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "CATANAC 50" ;
+    idmp:registrationNumber "1A 126/37" .
+
+<http://example.org/idmp/224> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LESFLAM 50" ;
+    idmp:registrationNumber "1A 336/43" .
+
+<http://example.org/idmp/225> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/57> ;
+    idmp:name "BUFENAC" ;
+    idmp:registrationNumber "1A 455/38" .
+
+<http://example.org/idmp/226> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/51> ;
+    idmp:name "DICLOFENAC TABLETS" ;
+    idmp:registrationNumber "1A 139/38" .
+
+<http://example.org/idmp/227> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DOSANAC 50" ;
+    idmp:registrationNumber "1A 1272/30" .
+
+<http://example.org/idmp/228> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "DIFELENE" ;
+    idmp:registrationNumber "1A 271/37" .
+
+<http://example.org/idmp/229> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/30> ;
+    idmp:name "VOLFENAC INJECTION" ;
+    idmp:registrationNumber "1A 2691/29" .
+
+<http://example.org/idmp/23> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/13> ;
+    idmp:name "CORDARONE" ;
+    idmp:registrationNumber "1C 369/49" .
+
+<http://example.org/idmp/230> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/61> ;
+    idmp:name "FENAC" ;
+    idmp:registrationNumber "1A 303/30" .
+
+<http://example.org/idmp/231> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/74> ;
+    idmp:name "VIVIAN" ;
+    idmp:registrationNumber "1C 53/46" .
+
+<http://example.org/idmp/232> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/75> ;
+    idmp:name "VOLTAREN (75 MG/3 ML)" ;
+    idmp:registrationNumber "1C 58/48(N)" .
+
+<http://example.org/idmp/233> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DOSANAC (INJECTION)" ;
+    idmp:registrationNumber "1A 1249/31" .
+
+<http://example.org/idmp/234> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/17> ;
+    idmp:name "DIFENAC" ;
+    idmp:registrationNumber "1A 2037/30" .
+
+<http://example.org/idmp/235> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/22> ;
+    idmp:name "DOLONIL" ;
+    idmp:registrationNumber "1C 206/47" .
+
+<http://example.org/idmp/236> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "OSTAREN INJECTION" ;
+    idmp:registrationNumber "1A 312/42" .
+
+<http://example.org/idmp/237> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/73> ;
+    idmp:name "VESCONAC INJECTION" ;
+    idmp:registrationNumber "1A 120/50" .
+
+<http://example.org/idmp/238> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "D-CLOXA 500" ;
+    idmp:registrationNumber "1A 1/58" .
+
+<http://example.org/idmp/239> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "DICLOXACILLIN CAPSULES" ;
+    idmp:registrationNumber "1A 105/30" .
+
+<http://example.org/idmp/24> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/9> ;
+    idmp:name "ZYDARONE 200 TABLETS" ;
+    idmp:registrationNumber "1C 217/59" .
+
+<http://example.org/idmp/240> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "DICLOXACILLIN 500 MG" ;
+    idmp:registrationNumber "1A 1157/43" .
+
+<http://example.org/idmp/241> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "CLOX-MED 500" ;
+    idmp:registrationNumber "1A 257/54" .
+
+<http://example.org/idmp/242> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "DICLOHOF 500" ;
+    idmp:registrationNumber "1A 321/57" .
+
+<http://example.org/idmp/243> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "DICLOXACILLIN-250 CAPSULE" ;
+    idmp:registrationNumber "1A 434/38" .
+
+<http://example.org/idmp/244> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "DICLOXACILLIN-500 CAPSULE" ;
+    idmp:registrationNumber "1A 485/38" .
+
+<http://example.org/idmp/245> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "DICLOXACILLIN-250 CAPSULE" ;
+    idmp:registrationNumber "1A 81/54" .
+
+<http://example.org/idmp/246> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "DICLOXACILLIN-500 CAPSULE" ;
+    idmp:registrationNumber "1A 87/54" .
+
+<http://example.org/idmp/247> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DIXOCILLIN (500 MG CAPSULE)" ;
+    idmp:registrationNumber "1A 1280/41" .
+
+<http://example.org/idmp/248> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DIXOCILLIN (250 MG CAPSULE)" ;
+    idmp:registrationNumber "1A 163/28" .
+
+<http://example.org/idmp/249> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "DICLOXMAN-500 CAPSULE" ;
+    idmp:registrationNumber "1A 515/44" .
+
+<http://example.org/idmp/25> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/13> ;
+    idmp:name "CORDARONE" ;
+    idmp:registrationNumber "1C 346/49" .
+
+<http://example.org/idmp/250> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "GPO DICLOX CAPSULES 500 MG" ;
+    idmp:registrationNumber "1A 385/51" .
+
+<http://example.org/idmp/251> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "GPO DICLOX CAPSULES 250 MG" ;
+    idmp:registrationNumber "1A 386/51" .
+
+<http://example.org/idmp/252> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/25> ;
+    idmp:name "DICLOXA RX 500" ;
+    idmp:registrationNumber "1A 420/48" .
+
+<http://example.org/idmp/253> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "DICYMINE" ;
+    idmp:registrationNumber "1A 375/38" .
+
+<http://example.org/idmp/254> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "DICYMINE" ;
+    idmp:registrationNumber "1A 654/38" .
+
+<http://example.org/idmp/255> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "DIMENHYDRINATE" ;
+    idmp:registrationNumber "1A 663/38" .
+
+<http://example.org/idmp/256> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "PHAMAMIN TABLETS" ;
+    idmp:registrationNumber "1A 278/30" .
+
+<http://example.org/idmp/257> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "DIMIN" ;
+    idmp:registrationNumber "1A 297/43" .
+
+<http://example.org/idmp/258> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "FLULIUM 5" ;
+    idmp:registrationNumber "P1A 28/55" .
+
+<http://example.org/idmp/259> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "POLIZEP 5" ;
+    idmp:registrationNumber "P1A 7/57" .
+
+<http://example.org/idmp/26> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/14> ;
+    idmp:name "EURYTHMIC-200" ;
+    idmp:registrationNumber "1C 189/46" .
+
+<http://example.org/idmp/260> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/11> ;
+    idmp:name "CHRONOL" ;
+    idmp:registrationNumber "1A 150/29" .
+
+<http://example.org/idmp/261> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "ANTA-AL TABLET" ;
+    idmp:registrationNumber "1A 532/39" .
+
+<http://example.org/idmp/262> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/12> ;
+    idmp:name "ALCOBUSE" ;
+    idmp:registrationNumber "1A 591/38" .
+
+<http://example.org/idmp/263> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/76> ;
+    idmp:name "MEKARD" ;
+    idmp:registrationNumber "1C 39/64" .
+
+<http://example.org/idmp/264> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/7> ;
+    idmp:name "DANY" ;
+    idmp:registrationNumber "1A 837/32" .
+
+<http://example.org/idmp/265> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "DOMPERDONE SUSPENSION" ;
+    idmp:registrationNumber "1A 752/38" .
+
+<http://example.org/idmp/266> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "DOMINOX (LIQUID SUSPENSION)" ;
+    idmp:registrationNumber "1A 364/48" .
+
+<http://example.org/idmp/267> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/77> ;
+    idmp:name "ARICEPT EVESS (5 MG)" ;
+    idmp:registrationNumber "1B 5/52(N)" .
+
+<http://example.org/idmp/268> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/77> ;
+    idmp:name "ARICEPT EVESS (10 MG)" ;
+    idmp:registrationNumber "1B 6/52(N)" .
+
+<http://example.org/idmp/269> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/78> ;
+    idmp:name "DOZEMO (10 MG)" ;
+    idmp:registrationNumber "1C 26/55(NG)" .
+
+<http://example.org/idmp/27> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "TRIPNATOL FC-10" ;
+    idmp:registrationNumber "1A 327/45" .
+
+<http://example.org/idmp/270> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/78> ;
+    idmp:name "DOZEMO (5 MG)" ;
+    idmp:registrationNumber "1C 6/56(NG)" .
+
+<http://example.org/idmp/271> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "TONIZEP 5" ;
+    idmp:registrationNumber "1A 24/53(NG)" .
+
+<http://example.org/idmp/272> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "ALZIME 10" ;
+    idmp:registrationNumber "1A 75/60(NG)" .
+
+<http://example.org/idmp/273> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "INOPIN INJECTION (250 MG/10ML)" ;
+    idmp:registrationNumber "1A 1002/40" .
+
+<http://example.org/idmp/274> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "DOZA - 4" ;
+    idmp:registrationNumber "1A 278/56" .
+
+<http://example.org/idmp/275> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "PROSTASIN 2" ;
+    idmp:registrationNumber "1A 400/52" .
+
+<http://example.org/idmp/276> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "CARDOXA 2 MG" ;
+    idmp:registrationNumber "1A 242/57" .
+
+<http://example.org/idmp/277> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/44> ;
+    idmp:name "DOZOZIN-2" ;
+    idmp:registrationNumber "1A 42/46" .
+
+<http://example.org/idmp/278> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "DOXINE" ;
+    idmp:registrationNumber "1A 554/31" .
+
+<http://example.org/idmp/279> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "ANAPRIL 5" ;
+    idmp:registrationNumber "1A 437/38" .
+
+<http://example.org/idmp/28> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "TRIPNATOL FC-25" ;
+    idmp:registrationNumber "1A 328/45" .
+
+<http://example.org/idmp/280> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "ANAPRIL 20" ;
+    idmp:registrationNumber "1A 439/38" .
+
+<http://example.org/idmp/281> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "LAPRIL 20" ;
+    idmp:registrationNumber "1A 278/36" .
+
+<http://example.org/idmp/282> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "ANAPRIL-S" ;
+    idmp:registrationNumber "1A 48/62" .
+
+<http://example.org/idmp/283> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "ENALAPRIL 20 MG TABLET" ;
+    idmp:registrationNumber "1A 104/63" .
+
+<http://example.org/idmp/284> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/79> ;
+    idmp:name "HEMA-PLUS 4000" ;
+    idmp:registrationNumber "1B 1/59(NB)" .
+
+<http://example.org/idmp/285> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/79> ;
+    idmp:name "HEMA-PLUS 4000 (PREFILLED SYRINGE)" ;
+    idmp:registrationNumber "1B 2/59(NB)" .
+
+<http://example.org/idmp/286> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/80> ;
+    idmp:name "EPREX (PREFILLED SYRINGE 10,000 IU/ML)" ;
+    idmp:registrationNumber "1C 9/54(B)" .
+
+<http://example.org/idmp/287> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/81> ;
+    idmp:name "EPOKINE-INJ 4000 IU" ;
+    idmp:registrationNumber "1C 28/48(B)" .
+
+<http://example.org/idmp/288> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/82> ;
+    idmp:name "EPOSIS" ;
+    idmp:registrationNumber "1C 2/53(B)" .
+
+<http://example.org/idmp/289> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/83> ;
+    idmp:name "EPORON INJECTION 4000 IU/ML" ;
+    idmp:registrationNumber "1C 18/57(B)" .
+
+<http://example.org/idmp/29> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "TRIPNATOL" ;
+    idmp:registrationNumber "1A 571/41" .
+
+<http://example.org/idmp/290> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/84> ;
+    idmp:name "ESPOGEN INJECTION" ;
+    idmp:registrationNumber "1C 22/56(B)" .
+
+<http://example.org/idmp/291> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/84> ;
+    idmp:name "ESPOGEN INJECTION" ;
+    idmp:registrationNumber "1C 23/56(B)" .
+
+<http://example.org/idmp/292> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/85> ;
+    idmp:name "EPIAO (4000 IU/ML)" ;
+    idmp:registrationNumber "1C 82/50(B)" .
+
+<http://example.org/idmp/293> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/86> ;
+    idmp:name "RENOGEN 4000 UNITS/ML INJECTION" ;
+    idmp:registrationNumber "1C 97/49(B)" .
+
+<http://example.org/idmp/294> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/87> ;
+    idmp:name "BINOCRIT (10,000 IU/ML)" ;
+    idmp:registrationNumber "1C 12/61(B)" .
+
+<http://example.org/idmp/295> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/88> ;
+    idmp:name "Hema-Plus 4000 IU/ML" ;
+    idmp:registrationNumber "1A 1/65(NB)" .
+
+<http://example.org/idmp/296> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/88> ;
+    idmp:name "Hema-Plus 40000 IU/ML" ;
+    idmp:registrationNumber "1A 2/65(NB)" .
+
+<http://example.org/idmp/297> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/88> ;
+    idmp:name "Hema-Plus 2000 IU/0.5 ML" ;
+    idmp:registrationNumber "1A 5/65(NB)" .
+
+<http://example.org/idmp/298> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/88> ;
+    idmp:name "Hema-Plus 2000 IU/ML" ;
+    idmp:registrationNumber "1A 3/65(NB)" .
+
+<http://example.org/idmp/299> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/88> ;
+    idmp:name "Hema-Plus 10000" ;
+    idmp:registrationNumber "1A 4/65(NB)" .
+
+<http://example.org/idmp/3> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "COVIR" ;
+    idmp:registrationNumber "1A 909/42" .
+
+<http://example.org/idmp/30> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "TRIPNATOL-25" ;
+    idmp:registrationNumber "1A 572/41" .
+
+<http://example.org/idmp/300> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/88> ;
+    idmp:name "AIMAPEX" ;
+    idmp:registrationNumber "1A 6/65(NB)" .
+
+<http://example.org/idmp/301> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/89> ;
+    idmp:name "ESCITALOPRAM SANDOZ (10 MG)" ;
+    idmp:registrationNumber "1C 87/60(NG)" .
+
+<http://example.org/idmp/302> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/90> ;
+    idmp:name "ETHIONAMIDE TABLETS USP (250 MG)" ;
+    idmp:registrationNumber "1C 306/50" .
+
+<http://example.org/idmp/303> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/36> ;
+    idmp:name "EZETIMIBE SANDOZ" ;
+    idmp:registrationNumber "1C 46/58(NG)" .
+
+<http://example.org/idmp/304> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/91> ;
+    idmp:name "EZETROL (TABLETS)" ;
+    idmp:registrationNumber "1C 24/47(N)" .
+
+<http://example.org/idmp/305> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/91> ;
+    idmp:name "ZETIA" ;
+    idmp:registrationNumber "1C 66/56(N)" .
+
+<http://example.org/idmp/306> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "EZB" ;
+    idmp:registrationNumber "1A 14/64(NG)" .
+
+<http://example.org/idmp/307> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "MIBEAZ (10 MG TABLET)" ;
+    idmp:registrationNumber "1A 4/63(NG)" .
+
+<http://example.org/idmp/308> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "FIBRIL" ;
+    idmp:registrationNumber "1A 274/55" .
+
+<http://example.org/idmp/309> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/92> ;
+    idmp:name "ADFEN - 200" ;
+    idmp:registrationNumber "1C 133/55" .
+
+<http://example.org/idmp/31> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "POLYTANOL 25" ;
+    idmp:registrationNumber "1A 200/35" .
+
+<http://example.org/idmp/310> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/44> ;
+    idmp:name "FEBRATE-200" ;
+    idmp:registrationNumber "1A 119/59" .
+
+<http://example.org/idmp/311> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LEXEMIN 300" ;
+    idmp:registrationNumber "1A 543/41" .
+
+<http://example.org/idmp/312> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LEXEMIN 100" ;
+    idmp:registrationNumber "1A 544/41" .
+
+<http://example.org/idmp/313> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "I-RON" ;
+    idmp:registrationNumber "1A 20/57" .
+
+<http://example.org/idmp/314> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "I-RON-F" ;
+    idmp:registrationNumber "1A 24/57" .
+
+<http://example.org/idmp/315> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "FEMARATE" ;
+    idmp:registrationNumber "1A 539/46" .
+
+<http://example.org/idmp/316> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "FENAFEX" ;
+    idmp:registrationNumber "1A 23/47(NG)" .
+
+<http://example.org/idmp/317> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "FENAFEX 180 MG" ;
+    idmp:registrationNumber "1A 34/50(NG)" .
+
+<http://example.org/idmp/318> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "MEDIFAST 180" ;
+    idmp:registrationNumber "1A 8/61(NG)" .
+
+<http://example.org/idmp/319> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "BOSNUM 180" ;
+    idmp:registrationNumber "1A 10/52(NG)" .
+
+<http://example.org/idmp/32> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "POLYTANOL 10" ;
+    idmp:registrationNumber "1A 304/35" .
+
+<http://example.org/idmp/320> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "BOSNUM" ;
+    idmp:registrationNumber "1A 11/49(NG)" .
+
+<http://example.org/idmp/321> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/93> ;
+    idmp:name "NEUTROMAX (480 MCG)" ;
+    idmp:registrationNumber "1C 2/59(BF)" .
+
+<http://example.org/idmp/322> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/93> ;
+    idmp:name "NEUTROMAX (300 MCG)" ;
+    idmp:registrationNumber "1C 3/59(BF)" .
+
+<http://example.org/idmp/323> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/79> ;
+    idmp:name "LEUCO-PLUS 300" ;
+    idmp:registrationNumber "1B 1/58(NB)" .
+
+<http://example.org/idmp/324> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/79> ;
+    idmp:name "LEUCO-PLUS 300 (PREFILLED SYRINGE)" ;
+    idmp:registrationNumber "1B 2/58(NB)" .
+
+<http://example.org/idmp/325> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/94> ;
+    idmp:name "NEUKINE 300 MCG/1.0 ML" ;
+    idmp:registrationNumber "1C 8/53(BF)" .
+
+<http://example.org/idmp/326> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/95> ;
+    idmp:name "PROPECIA" ;
+    idmp:registrationNumber "1C 68/55(N)" .
+
+<http://example.org/idmp/327> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "PROSTERIDE" ;
+    idmp:registrationNumber "1A 19/50(NG)" .
+
+<http://example.org/idmp/328> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/96> ;
+    idmp:name "STERCIA-5" ;
+    idmp:registrationNumber "1A 11/55(NG)" .
+
+<http://example.org/idmp/329> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "FIRIDE (1 MG TABLET)" ;
+    idmp:registrationNumber "1A 1/51(NG)" .
+
+<http://example.org/idmp/33> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "TRIPSYLINE 10" ;
+    idmp:registrationNumber "1A 786/43" .
+
+<http://example.org/idmp/330> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "FIRIDE (5 MG TABLET)" ;
+    idmp:registrationNumber "1A 15/43(NG)" .
+
+<http://example.org/idmp/331> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "HARIFIN-1" ;
+    idmp:registrationNumber "1A 8/47(NG)" .
+
+<http://example.org/idmp/332> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "HARIFIN-5" ;
+    idmp:registrationNumber "1A 9/47(NG)" .
+
+<http://example.org/idmp/333> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/29> ;
+    idmp:name "BENSTAT" ;
+    idmp:registrationNumber "1A 12/54(NG)" .
+
+<http://example.org/idmp/334> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "PROSTAT 5" ;
+    idmp:registrationNumber "1A 69/63(NG)" .
+
+<http://example.org/idmp/335> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "GPO-FINAX (5)" ;
+    idmp:registrationNumber "1A 18/57(NG)" .
+
+<http://example.org/idmp/336> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "SPASURI TABLETS" ;
+    idmp:registrationNumber "1A 15/34" .
+
+<http://example.org/idmp/337> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/43> ;
+    idmp:name "FLUDIZOL (200 MG)" ;
+    idmp:registrationNumber "1A 21/43(NG)" .
+
+<http://example.org/idmp/338> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "FLUCOZOLE (200 MG CAPSULE)" ;
+    idmp:registrationNumber "1A 16/42(NG)" .
+
+<http://example.org/idmp/339> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "FLUZORAL" ;
+    idmp:registrationNumber "1A 32/59(NG)" .
+
+<http://example.org/idmp/34> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "TRIPSYLINE 25" ;
+    idmp:registrationNumber "1A 787/43" .
+
+<http://example.org/idmp/340> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "FLUTINE TABLETS" ;
+    idmp:registrationNumber "1A 503/42" .
+
+<http://example.org/idmp/341> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "FOXETIN" ;
+    idmp:registrationNumber "1A 17/55" .
+
+<http://example.org/idmp/342> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "FULOX 20" ;
+    idmp:registrationNumber "1A 49/38" .
+
+<http://example.org/idmp/343> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "OXETINE 20 TABLET" ;
+    idmp:registrationNumber "1A 756/42" .
+
+<http://example.org/idmp/344> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/97> ;
+    idmp:name "BLACKMORES FOLIC ACID" ;
+    idmp:registrationNumber "1C 30/45" .
+
+<http://example.org/idmp/345> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/59> ;
+    idmp:name "FOLIC ACID TABLET" ;
+    idmp:registrationNumber "1A 1130/44" .
+
+<http://example.org/idmp/346> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/98> ;
+    idmp:name "FOLIAMIN" ;
+    idmp:registrationNumber "1A 200/48" .
+
+<http://example.org/idmp/347> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/99> ;
+    idmp:name "FOLIMED" ;
+    idmp:registrationNumber "1A 321/49" .
+
+<http://example.org/idmp/348> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/100> ;
+    idmp:name "GNC FOLIC ACID 800 MCG TABLETS" ;
+    idmp:registrationNumber "1C 185/42" .
+
+<http://example.org/idmp/349> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "F-MIN" ;
+    idmp:registrationNumber "1A 138/57" .
+
+<http://example.org/idmp/35> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "AMITRYN" ;
+    idmp:registrationNumber "1A 411/50" .
+
+<http://example.org/idmp/350> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/101> ;
+    idmp:name "FOLIC 5 MG" ;
+    idmp:registrationNumber "1A 336/50" .
+
+<http://example.org/idmp/351> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "FOLIC TABLET" ;
+    idmp:registrationNumber "1A 441/39" .
+
+<http://example.org/idmp/352> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "BOOTS FOLIC ACID" ;
+    idmp:registrationNumber "1A 492/51" .
+
+<http://example.org/idmp/353> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/102> ;
+    idmp:name "FOLIC ACID TABLETS" ;
+    idmp:registrationNumber "1A 210/45" .
+
+<http://example.org/idmp/354> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "FOLIVIT TABLET" ;
+    idmp:registrationNumber "1A 1627/27" .
+
+<http://example.org/idmp/355> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "FOLIC ACID TABLETS" ;
+    idmp:registrationNumber "1A 86/54" .
+
+<http://example.org/idmp/356> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/61> ;
+    idmp:name "H-MIDE" ;
+    idmp:registrationNumber "1A 723/30" .
+
+<http://example.org/idmp/357> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/103> ;
+    idmp:name "LASIX" ;
+    idmp:registrationNumber "1C 238/41" .
+
+<http://example.org/idmp/358> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/103> ;
+    idmp:name "LASIX 250 MG" ;
+    idmp:registrationNumber "1C 903/29" .
+
+<http://example.org/idmp/359> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "FURETIC INJECTION" ;
+    idmp:registrationNumber "1A 260/54" .
+
+<http://example.org/idmp/36> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/17> ;
+    idmp:name "MEDEPRESS 10" ;
+    idmp:registrationNumber "1A 537/56" .
+
+<http://example.org/idmp/360> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/17> ;
+    idmp:name "FUROSEMIDE INJECTION" ;
+    idmp:registrationNumber "1A 218/48" .
+
+<http://example.org/idmp/361> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "FUROSEMIDE INJECTION" ;
+    idmp:registrationNumber "1A 395/49" .
+
+<http://example.org/idmp/362> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/104> ;
+    idmp:name "LASIVEN" ;
+    idmp:registrationNumber "1A 308/65" .
+
+<http://example.org/idmp/363> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "DIRINE" ;
+    idmp:registrationNumber "1A 2294/29" .
+
+<http://example.org/idmp/364> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/40> ;
+    idmp:name "FEMIDE" ;
+    idmp:registrationNumber "1A 195/49" .
+
+<http://example.org/idmp/365> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "FUROSIC" ;
+    idmp:registrationNumber "1A 183/39" .
+
+<http://example.org/idmp/366> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "FURIDE 500" ;
+    idmp:registrationNumber "1A 41/55" .
+
+<http://example.org/idmp/367> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "FURETIC" ;
+    idmp:registrationNumber "1A 27/28" .
+
+<http://example.org/idmp/368> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "FUROSEMIDE TABLETS 40 MG" ;
+    idmp:registrationNumber "1A 353/43" .
+
+<http://example.org/idmp/369> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "GABTIN 400" ;
+    idmp:registrationNumber "1A 25/57(NG)" .
+
+<http://example.org/idmp/37> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/17> ;
+    idmp:name "MEDEPRESS 25" ;
+    idmp:registrationNumber "1A 541/56" .
+
+<http://example.org/idmp/370> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "BERLONTIN 300" ;
+    idmp:registrationNumber "1A 29/59(NG)" .
+
+<http://example.org/idmp/371> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "GABUTIN 100 MG CAPSULE" ;
+    idmp:registrationNumber "1A 8/51(NG)" .
+
+<http://example.org/idmp/372> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "VULTIN 100" ;
+    idmp:registrationNumber "1A 50/50(NG)" .
+
+<http://example.org/idmp/373> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "VULTIN 400" ;
+    idmp:registrationNumber "1A 52/50(NG)" .
+
+<http://example.org/idmp/374> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "GABTIN 100 (CAPSULE)" ;
+    idmp:registrationNumber "1A 20/59(NG)" .
+
+<http://example.org/idmp/375> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "BERLONTIN 100" ;
+    idmp:registrationNumber "1A 15122/62(NG)" .
+
+<http://example.org/idmp/376> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "BERLONTIN 600" ;
+    idmp:registrationNumber "1A 15123/62(NG)" .
+
+<http://example.org/idmp/377> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/29> ;
+    idmp:name "RONTIN (600)" ;
+    idmp:registrationNumber "1A 30/53(NG)" .
+
+<http://example.org/idmp/378> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "GABUTIN 300 MG CAPSULE" ;
+    idmp:registrationNumber "1A 9/51(NG)" .
+
+<http://example.org/idmp/379> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "GABUTIN 600 MG TABLET" ;
+    idmp:registrationNumber "1A 5/59(NG)" .
+
+<http://example.org/idmp/38> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "AMITRIPTYLINE HYDROCHLORIDE TABLETS 10 MG" ;
+    idmp:registrationNumber "1A 119/45" .
+
+<http://example.org/idmp/380> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "VULTIN 300" ;
+    idmp:registrationNumber "1A 51/50(NG)" .
+
+<http://example.org/idmp/381> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "GABAPENTIN GPO (100mg)" ;
+    idmp:registrationNumber "1A 20/55(NG)" .
+
+<http://example.org/idmp/382> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "GABAPENTIN GPO (300 MG)" ;
+    idmp:registrationNumber "1A 20/58(NG)" .
+
+<http://example.org/idmp/383> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "HIDIL 600" ;
+    idmp:registrationNumber "1A 175/38" .
+
+<http://example.org/idmp/384> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "HIDIL" ;
+    idmp:registrationNumber "1A 622/34" .
+
+<http://example.org/idmp/385> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "MILPID 600" ;
+    idmp:registrationNumber "1A 145/49" .
+
+<http://example.org/idmp/386> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "POLYXIT" ;
+    idmp:registrationNumber "1A 334/35" .
+
+<http://example.org/idmp/387> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "POLYXIT 600" ;
+    idmp:registrationNumber "1A 617/43" .
+
+<http://example.org/idmp/388> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SUGRIL (5 MG TABLET)" ;
+    idmp:registrationNumber "1A 2248/29" .
+
+<http://example.org/idmp/389> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/105> ;
+    idmp:name "DIAMICRON MR 60 MG" ;
+    idmp:registrationNumber "1C 19/54(N)" .
+
+<http://example.org/idmp/39> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "AMITRIPTYLINE HYDROCHLORIDE TABLETS 25 MG" ;
+    idmp:registrationNumber "1A 120/45" .
+
+<http://example.org/idmp/390> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/106> ;
+    idmp:name "AMARYL (4 MG)" ;
+    idmp:registrationNumber "1C 39/50(N)" .
+
+<http://example.org/idmp/391> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/106> ;
+    idmp:name "AMARYL (3 MG)" ;
+    idmp:registrationNumber "1C 40/50(N)" .
+
+<http://example.org/idmp/392> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/106> ;
+    idmp:name "AMARYL (2 MG)" ;
+    idmp:registrationNumber "1C 41/50(N)" .
+
+<http://example.org/idmp/393> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/106> ;
+    idmp:name "AMARYL (1 MG)" ;
+    idmp:registrationNumber "1C 42/50(N)" .
+
+<http://example.org/idmp/394> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DIAGLIP 4 MG TABLET" ;
+    idmp:registrationNumber "1A 46/56(NG)" .
+
+<http://example.org/idmp/395> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DIAGLIP 2 MG TABLET" ;
+    idmp:registrationNumber "1A 8/53(NG)" .
+
+<http://example.org/idmp/396> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DIAGLIP 1 MG TABLET" ;
+    idmp:registrationNumber "1A 9/53(NG)" .
+
+<http://example.org/idmp/397> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LOSU-3" ;
+    idmp:registrationNumber "1A 4/56(NG)" .
+
+<http://example.org/idmp/398> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/2> ;
+    idmp:name "GLUCODIAB" ;
+    idmp:registrationNumber "1A 1048/40" .
+
+<http://example.org/idmp/399> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "GLYCEDIAB 5 MG TABLET" ;
+    idmp:registrationNumber "1A 58/44" .
+
+<http://example.org/idmp/4> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "ACYVIR" ;
+    idmp:registrationNumber "1A 190/38" .
+
+<http://example.org/idmp/40> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "AMITRIP 10" ;
+    idmp:registrationNumber "1A 946/30" .
+
+<http://example.org/idmp/400> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/30> ;
+    idmp:name "GLYGEN" ;
+    idmp:registrationNumber "1A 1081/40" .
+
+<http://example.org/idmp/401> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/107> ;
+    idmp:name "GLIPIDIAB" ;
+    idmp:registrationNumber "1A 105/37" .
+
+<http://example.org/idmp/402> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/99> ;
+    idmp:name "GLIPIMED" ;
+    idmp:registrationNumber "1A 489/43" .
+
+<http://example.org/idmp/403> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "GPZIDE" ;
+    idmp:registrationNumber "1A 31/48" .
+
+<http://example.org/idmp/404> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "GLIBEZIDE" ;
+    idmp:registrationNumber "1A 380/39" .
+
+<http://example.org/idmp/405> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/33> ;
+    idmp:name "PHARMAHOF GLIZIDE" ;
+    idmp:registrationNumber "1A 241/51" .
+
+<http://example.org/idmp/406> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/108> ;
+    idmp:name "MINIDIAB (TABLET)" ;
+    idmp:registrationNumber "1C 288/41" .
+
+<http://example.org/idmp/407> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/101> ;
+    idmp:name "GLIPIZ" ;
+    idmp:registrationNumber "1A 374/43" .
+
+<http://example.org/idmp/408> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "NAMEDIA" ;
+    idmp:registrationNumber "1A 424/38" .
+
+<http://example.org/idmp/409> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/11> ;
+    idmp:name "DEPIZIDE" ;
+    idmp:registrationNumber "1A 151/43" .
+
+<http://example.org/idmp/41> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "AMLOPINE 10" ;
+    idmp:registrationNumber "1A 13/43(NG)" .
+
+<http://example.org/idmp/410> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "GLIPIZIM" ;
+    idmp:registrationNumber "1A 444/50" .
+
+<http://example.org/idmp/411> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DIPAZIDE (5 MG TABLET)" ;
+    idmp:registrationNumber "1A 497/36" .
+
+<http://example.org/idmp/412> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "GIPZIDE" ;
+    idmp:registrationNumber "1A 678/39" .
+
+<http://example.org/idmp/413> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "MANPIZIDE TABLET" ;
+    idmp:registrationNumber "1A 826/44" .
+
+<http://example.org/idmp/414> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "TOPIZIDE" ;
+    idmp:registrationNumber "1A 134/41" .
+
+<http://example.org/idmp/415> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "GLIPIZIDE" ;
+    idmp:registrationNumber "1A 136/53" .
+
+<http://example.org/idmp/416> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "GRISEOFULVIN TABLET" ;
+    idmp:registrationNumber "1A 464/44" .
+
+<http://example.org/idmp/417> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "HARIDOL (INJECTION)" ;
+    idmp:registrationNumber "1A 1188/27" .
+
+<http://example.org/idmp/418> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/30> ;
+    idmp:name "HALOPOL 0.5" ;
+    idmp:registrationNumber "1A 667/27" .
+
+<http://example.org/idmp/419> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/30> ;
+    idmp:name "HALOPOL 2" ;
+    idmp:registrationNumber "1A 668/27" .
+
+<http://example.org/idmp/42> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "AMLOPINE" ;
+    idmp:registrationNumber "1A 14/43(NG)" .
+
+<http://example.org/idmp/420> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "POLYHADON 10" ;
+    idmp:registrationNumber "1A 128/38" .
+
+<http://example.org/idmp/421> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "POLYHADON 0.5" ;
+    idmp:registrationNumber "1A 581/34" .
+
+<http://example.org/idmp/422> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "POLYHADON 5" ;
+    idmp:registrationNumber "1A 582/34" .
+
+<http://example.org/idmp/423> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "POLYHADON 2" ;
+    idmp:registrationNumber "1A 583/34" .
+
+<http://example.org/idmp/424> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "HALOPERIDOL TABLETS 2 MG" ;
+    idmp:registrationNumber "1A 30/46" .
+
+<http://example.org/idmp/425> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "HALOPERIDOL TABLETS 5 MG" ;
+    idmp:registrationNumber "1A 31/46" .
+
+<http://example.org/idmp/426> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "HALOMED 5 MG" ;
+    idmp:registrationNumber "1A 1005/31" .
+
+<http://example.org/idmp/427> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "HARICON" ;
+    idmp:registrationNumber "1A 2347/28" .
+
+<http://example.org/idmp/428> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "HALOMED" ;
+    idmp:registrationNumber "1A 731/30" .
+
+<http://example.org/idmp/429> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/109> ;
+    idmp:name "HEPARIN INJECTION 5000 IU/ML" ;
+    idmp:registrationNumber "1C 20/53(B)" .
+
+<http://example.org/idmp/43> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/9> ;
+    idmp:name "AMLODAC 5" ;
+    idmp:registrationNumber "1C 14/55(NG)" .
+
+<http://example.org/idmp/430> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/14> ;
+    idmp:name "NUPARIN" ;
+    idmp:registrationNumber "1C 80/48" .
+
+<http://example.org/idmp/431> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "CESOLINE W" ;
+    idmp:registrationNumber "1A 699/38" .
+
+<http://example.org/idmp/432> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/12> ;
+    idmp:name "HYDRALAZINE DEAGEES" ;
+    idmp:registrationNumber "1A 645/38" .
+
+<http://example.org/idmp/433> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "HYDRA 25" ;
+    idmp:registrationNumber "1A 139/32" .
+
+<http://example.org/idmp/434> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "APRESZINE 25" ;
+    idmp:registrationNumber "1A 26/63" .
+
+<http://example.org/idmp/435> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "MODUZIDE" ;
+    idmp:registrationNumber "2A 140/41" .
+
+<http://example.org/idmp/436> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "HYPERRETIC TABLETS" ;
+    idmp:registrationNumber "2A 695/30" .
+
+<http://example.org/idmp/437> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "POLI-URETIC" ;
+    idmp:registrationNumber "2A 14/36" .
+
+<http://example.org/idmp/438> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "GADURETIC" ;
+    idmp:registrationNumber "2A 65/49" .
+
+<http://example.org/idmp/439> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "MINITIC TABLET" ;
+    idmp:registrationNumber "2A 247/32" .
+
+<http://example.org/idmp/44> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/9> ;
+    idmp:name "AMLODAC 10" ;
+    idmp:registrationNumber "1C 42/53(NG)" .
+
+<http://example.org/idmp/440> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "MEDITIC" ;
+    idmp:registrationNumber "2A 78/34" .
+
+<http://example.org/idmp/441> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/99> ;
+    idmp:name "HYDROZIDE" ;
+    idmp:registrationNumber "1A 2251/29" .
+
+<http://example.org/idmp/442> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "THIAZIDE" ;
+    idmp:registrationNumber "1A 450/41" .
+
+<http://example.org/idmp/443> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "H C T 25" ;
+    idmp:registrationNumber "1A 123/57" .
+
+<http://example.org/idmp/444> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "HYDROCHLOROTHIAZIDE TABLETS 50 MG" ;
+    idmp:registrationNumber "1A 139/43" .
+
+<http://example.org/idmp/445> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "HCTZ 25" ;
+    idmp:registrationNumber "1A 500/55" .
+
+<http://example.org/idmp/446> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "GPO-HCTZ (25 MG)" ;
+    idmp:registrationNumber "1A 93/63" .
+
+<http://example.org/idmp/447> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "GPO-HCTZ (50 MG)" ;
+    idmp:registrationNumber "1A 94/63" .
+
+<http://example.org/idmp/448> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/9> ;
+    idmp:name "ZYQUENIL" ;
+    idmp:registrationNumber "1C 120/56" .
+
+<http://example.org/idmp/449> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/110> ;
+    idmp:name "PLAQUENIL TABLET" ;
+    idmp:registrationNumber "1C 355/49" .
+
+<http://example.org/idmp/45> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "AMVAS 10" ;
+    idmp:registrationNumber "1A 1/60(NG)" .
+
+<http://example.org/idmp/450> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/28> ;
+    idmp:name "HYDROQUIN" ;
+    idmp:registrationNumber "1C 15/59" .
+
+<http://example.org/idmp/451> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "UNIRAX" ;
+    idmp:registrationNumber "1A 356/40" .
+
+<http://example.org/idmp/452> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/111> ;
+    idmp:name "PROBUFEN 400" ;
+    idmp:registrationNumber "1A 428/56" .
+
+<http://example.org/idmp/453> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/57> ;
+    idmp:name "BUFLEX 200" ;
+    idmp:registrationNumber "1A 848/32" .
+
+<http://example.org/idmp/454> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/112> ;
+    idmp:name "P-FEN 400" ;
+    idmp:registrationNumber "1A 69/54" .
+
+<http://example.org/idmp/455> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/33> ;
+    idmp:name "I - PROFEN 400" ;
+    idmp:registrationNumber "1A 383/47" .
+
+<http://example.org/idmp/456> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "HEIDI 400" ;
+    idmp:registrationNumber "1A 1153/44" .
+
+<http://example.org/idmp/457> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "IBUMAN - 200 TABLET" ;
+    idmp:registrationNumber "1A 546/44" .
+
+<http://example.org/idmp/458> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "DURAN" ;
+    idmp:registrationNumber "1A 324/39" .
+
+<http://example.org/idmp/459> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "CELAMINE" ;
+    idmp:registrationNumber "1A 179/37" .
+
+<http://example.org/idmp/46> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "AMLOVASC 5" ;
+    idmp:registrationNumber "1A 30/59(NG)" .
+
+<http://example.org/idmp/460> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "SERMONIL TABLETS" ;
+    idmp:registrationNumber "1A 659/28" .
+
+<http://example.org/idmp/461> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/31> ;
+    idmp:name "INDOMETHACIN CAPSULES B.P." ;
+    idmp:registrationNumber "1A 931/30" .
+
+<http://example.org/idmp/462> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/113> ;
+    idmp:name "API-PYRIN 25" ;
+    idmp:registrationNumber "1A 335/40" .
+
+<http://example.org/idmp/463> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/40> ;
+    idmp:name "INDOMETHACIN" ;
+    idmp:registrationNumber "1A 1816/28" .
+
+<http://example.org/idmp/464> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "INDOMETHACIN CAPSULES" ;
+    idmp:registrationNumber "1A 114/57" .
+
+<http://example.org/idmp/465> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "INDOMETHACIN CAPSULES" ;
+    idmp:registrationNumber "1A 281/56" .
+
+<http://example.org/idmp/466> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "INDOMETHACIN CAPSULES" ;
+    idmp:registrationNumber "1A 287/56" .
+
+<http://example.org/idmp/467> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/101> ;
+    idmp:name "INDOMETHACIN" ;
+    idmp:registrationNumber "1A 460/33" .
+
+<http://example.org/idmp/468> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "DOCINCAP" ;
+    idmp:registrationNumber "1A 1017/43" .
+
+<http://example.org/idmp/469> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "INDOHIM" ;
+    idmp:registrationNumber "1A 11/54" .
+
+<http://example.org/idmp/47> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DETEN (5 MG TABLET)" ;
+    idmp:registrationNumber "1A 16/47(NG)" .
+
+<http://example.org/idmp/470> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "INDOHIM" ;
+    idmp:registrationNumber "1A 446/50" .
+
+<http://example.org/idmp/471> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "INDOHIM" ;
+    idmp:registrationNumber "1A 447/50" .
+
+<http://example.org/idmp/472> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "INDO-TRUSTMAN CAPSULES" ;
+    idmp:registrationNumber "1A 1392/28" .
+
+<http://example.org/idmp/473> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "INDO-TRUSTMAN CAPSULES" ;
+    idmp:registrationNumber "1A 1393/28" .
+
+<http://example.org/idmp/474> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "INDO-TRUSTMAN CAPSULES" ;
+    idmp:registrationNumber "1A 1394/28" .
+
+<http://example.org/idmp/475> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "INDO-TRUSTMAN CAPSULES" ;
+    idmp:registrationNumber "1A 1395/28" .
+
+<http://example.org/idmp/476> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "INDO-Q" ;
+    idmp:registrationNumber "1A 463/39" .
+
+<http://example.org/idmp/477> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "INDOMETHACIN CAPSULE" ;
+    idmp:registrationNumber "1A 973/30" .
+
+<http://example.org/idmp/478> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "INDOMETHACIN CAPSULE" ;
+    idmp:registrationNumber "1A 974/30" .
+
+<http://example.org/idmp/479> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "INCOSIT" ;
+    idmp:registrationNumber "1A 615/44" .
+
+<http://example.org/idmp/48> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "DETEN (10 MG TABLET)" ;
+    idmp:registrationNumber "1A 17/47(NG)" .
+
+<http://example.org/idmp/480> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/114> ;
+    idmp:name "FREZORINE" ;
+    idmp:registrationNumber "1A 408/52" .
+
+<http://example.org/idmp/481> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/115> ;
+    idmp:name "BIOSULIN R" ;
+    idmp:registrationNumber "1C 6/64(B)" .
+
+<http://example.org/idmp/482> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/115> ;
+    idmp:name "BIOSULIN 30:70" ;
+    idmp:registrationNumber "1C 7/64(B)" .
+
+<http://example.org/idmp/483> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/116> ;
+    idmp:name "INSUGEN-R(REGULAR)" ;
+    idmp:registrationNumber "1C 239/50(B)" .
+
+<http://example.org/idmp/484> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/116> ;
+    idmp:name "INSUGEN-30/70(BIPHASIC)" ;
+    idmp:registrationNumber "1C 240/50(B)" .
+
+<http://example.org/idmp/485> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/116> ;
+    idmp:name "INSUGEN-N (NPH)" ;
+    idmp:registrationNumber "1C 74/51(B)" .
+
+<http://example.org/idmp/486> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/117> ;
+    idmp:name "GENSULIN M 30 (30/70)" ;
+    idmp:registrationNumber "1C 225/49(B)" .
+
+<http://example.org/idmp/487> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/117> ;
+    idmp:name "GENSULIN N 100 IU/ML" ;
+    idmp:registrationNumber "1C 226/49(B)" .
+
+<http://example.org/idmp/488> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/118> ;
+    idmp:name "INSULATARD HM 100 I.U./ML" ;
+    idmp:registrationNumber "1C 140/39" .
+
+<http://example.org/idmp/489> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/118> ;
+    idmp:name "ACTRAPID HM 100 I.U./ML" ;
+    idmp:registrationNumber "1C 342/33" .
+
+<http://example.org/idmp/49> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "NARVIN 5" ;
+    idmp:registrationNumber "1A 36/50(NG)" .
+
+<http://example.org/idmp/490> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/118> ;
+    idmp:name "MIXTARD 30 HM 100 I.U./ML" ;
+    idmp:registrationNumber "2C 39/39" .
+
+<http://example.org/idmp/491> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/119> ;
+    idmp:name "MIXTARD 30 PENFILL" ;
+    idmp:registrationNumber "1C 23/53(B)" .
+
+<http://example.org/idmp/492> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/119> ;
+    idmp:name "ACTRAPID PENFILL" ;
+    idmp:registrationNumber "1C 24/53(B)" .
+
+<http://example.org/idmp/493> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/119> ;
+    idmp:name "INSULATARD PENFILL" ;
+    idmp:registrationNumber "1C 25/53(B)" .
+
+<http://example.org/idmp/494> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/120> ;
+    idmp:name "WINSULIN-30/70" ;
+    idmp:registrationNumber "1C 12/58(B)" .
+
+<http://example.org/idmp/495> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/120> ;
+    idmp:name "WINSULIN-N" ;
+    idmp:registrationNumber "1C 13/58(B)" .
+
+<http://example.org/idmp/496> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/120> ;
+    idmp:name "WINSULIN-R" ;
+    idmp:registrationNumber "1C 14/58(B)" .
+
+<http://example.org/idmp/497> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/115> ;
+    idmp:name "BIOSULIN N" ;
+    idmp:registrationNumber "1C 5/64(B)" .
+
+<http://example.org/idmp/498> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/13> ;
+    idmp:name "APROVEL 150 MG" ;
+    idmp:registrationNumber "1C 183/49(N)" .
+
+<http://example.org/idmp/499> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/13> ;
+    idmp:name "APROVEL 300 MG" ;
+    idmp:registrationNumber "1C 184/49(N)" .
+
+<http://example.org/idmp/5> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "HERPENON TAB" ;
+    idmp:registrationNumber "1A 150/42" .
+
+<http://example.org/idmp/50> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "NARVIN 10" ;
+    idmp:registrationNumber "1A 37/50(NG)" .
+
+<http://example.org/idmp/500> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "BESANTA   300" ;
+    idmp:registrationNumber "1A 22/56(NG)" .
+
+<http://example.org/idmp/501> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "BESANTA   150" ;
+    idmp:registrationNumber "1A 36/56(NG)" .
+
+<http://example.org/idmp/502> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "IRBESARTAN GPO" ;
+    idmp:registrationNumber "1A 31/56(NG)" .
+
+<http://example.org/idmp/503> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "ISOTRATE" ;
+    idmp:registrationNumber "1A 330/41" .
+
+<http://example.org/idmp/504> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "HARTSORB (10 MG TABLET)" ;
+    idmp:registrationNumber "1A 592/42" .
+
+<http://example.org/idmp/505> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "HARTSORB (30 MG TABLET)" ;
+    idmp:registrationNumber "1A 594/42" .
+
+<http://example.org/idmp/506> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "CORODIL" ;
+    idmp:registrationNumber "1A 64/56" .
+
+<http://example.org/idmp/507> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "MONOLIN" ;
+    idmp:registrationNumber "1A 319/39" .
+
+<http://example.org/idmp/508> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/9> ;
+    idmp:name "SOLOTRATE 20 (TABLETS)" ;
+    idmp:registrationNumber "1C 242/48" .
+
+<http://example.org/idmp/509> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "ISOPEN-20" ;
+    idmp:registrationNumber "1A 130/40" .
+
+<http://example.org/idmp/51> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "AMBES-10" ;
+    idmp:registrationNumber "1A 19/59(NG)" .
+
+<http://example.org/idmp/510> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "MONOSORB" ;
+    idmp:registrationNumber "1A 264/54" .
+
+<http://example.org/idmp/511> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/114> ;
+    idmp:name "ICOZOLE" ;
+    idmp:registrationNumber "1A 489/46" .
+
+<http://example.org/idmp/512> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/121> ;
+    idmp:name "COMBID 300 (TABLETS)" ;
+    idmp:registrationNumber "2C 1/59(N)" .
+
+<http://example.org/idmp/513> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "ZILARVIR" ;
+    idmp:registrationNumber "2A 1/61(NG)" .
+
+<http://example.org/idmp/514> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/122> ;
+    idmp:name "ZEFFIX (TABLETS)" ;
+    idmp:registrationNumber "1C 91/56(N)" .
+
+<http://example.org/idmp/515> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "LAMIVIR" ;
+    idmp:registrationNumber "1A 2/53(NG)" .
+
+<http://example.org/idmp/516> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/121> ;
+    idmp:name "LAMICTAL (TABLETS 25 MG)" ;
+    idmp:registrationNumber "1C 84/54(N)" .
+
+<http://example.org/idmp/517> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/121> ;
+    idmp:name "LAMICTAL (TABLETS 50 MG)" ;
+    idmp:registrationNumber "1C 85/54(N)" .
+
+<http://example.org/idmp/518> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/121> ;
+    idmp:name "LAMICTAL (TABLETS 100 MG)" ;
+    idmp:registrationNumber "1C 86/54(N)" .
+
+<http://example.org/idmp/519> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/123> ;
+    idmp:name "NEUMOGINE (50 MG TABLET)" ;
+    idmp:registrationNumber "1A 29/56(NG)" .
+
+<http://example.org/idmp/52> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "AMBES-5" ;
+    idmp:registrationNumber "1A 26/59(NG)" .
+
+<http://example.org/idmp/520> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LAMOGA-50" ;
+    idmp:registrationNumber "1A 41/59(NG)" .
+
+<http://example.org/idmp/521> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LAMOGA-25" ;
+    idmp:registrationNumber "1A 42/59(NG)" .
+
+<http://example.org/idmp/522> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LAMOGA-100" ;
+    idmp:registrationNumber "1A 43/59(NG)" .
+
+<http://example.org/idmp/523> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/13> ;
+    idmp:name "ARAVA (20 MG)" ;
+    idmp:registrationNumber "1C 78/42(N)" .
+
+<http://example.org/idmp/524> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "LAREYA" ;
+    idmp:registrationNumber "1A 56/61(NG)" .
+
+<http://example.org/idmp/525> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "KERTET 20" ;
+    idmp:registrationNumber "1A 12/63(NG)" .
+
+<http://example.org/idmp/526> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LECETAM ORAL SOLUTION" ;
+    idmp:registrationNumber "1A 45/63(NG)" .
+
+<http://example.org/idmp/527> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/124> ;
+    idmp:name "KEPPRA 250 MG (FILM- COATED TABLETS)" ;
+    idmp:registrationNumber "1C 72/52(N)" .
+
+<http://example.org/idmp/528> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/124> ;
+    idmp:name "KEPPRA 500 MG (FILM- COATED TABLETS)" ;
+    idmp:registrationNumber "1C 73/52(N)" .
+
+<http://example.org/idmp/529> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LECETAM 500" ;
+    idmp:registrationNumber "1A 5/58(NG)" .
+
+<http://example.org/idmp/53> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/22> ;
+    idmp:name "AMCARDIA-5" ;
+    idmp:registrationNumber "1C 31/54(NG)" .
+
+<http://example.org/idmp/530> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "KELEP 500" ;
+    idmp:registrationNumber "1A 7/62(NG)" .
+
+<http://example.org/idmp/531> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LECETAM 250" ;
+    idmp:registrationNumber "1A 4/58(NG)" .
+
+<http://example.org/idmp/532> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/125> ;
+    idmp:name "EPILOG-500" ;
+    idmp:registrationNumber "1A 51/64(NG)" .
+
+<http://example.org/idmp/533> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "LEVOCET" ;
+    idmp:registrationNumber "1A 39/60(NG)" .
+
+<http://example.org/idmp/534> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/126> ;
+    idmp:name "ZYLLER" ;
+    idmp:registrationNumber "1C 8/60(NG)" .
+
+<http://example.org/idmp/535> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/127> ;
+    idmp:name "XYZAL" ;
+    idmp:registrationNumber "1C 80/52(N)" .
+
+<http://example.org/idmp/536> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "CETIZAL 5" ;
+    idmp:registrationNumber "1A 8/59(NG)" .
+
+<http://example.org/idmp/537> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/43> ;
+    idmp:name "SINEMET" ;
+    idmp:registrationNumber "2A 140/48" .
+
+<http://example.org/idmp/538> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/28> ;
+    idmp:name "SYNDOPA 275" ;
+    idmp:registrationNumber "2C 2/59" .
+
+<http://example.org/idmp/539> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LEVOMET" ;
+    idmp:registrationNumber "2A 286/41" .
+
+<http://example.org/idmp/54> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "AMLOD 10" ;
+    idmp:registrationNumber "1A 45/50(NG)" .
+
+<http://example.org/idmp/540> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "LEVOMET" ;
+    idmp:registrationNumber "2A 51/51" .
+
+<http://example.org/idmp/541> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "VEFLOX" ;
+    idmp:registrationNumber "1A 18/56(NG)" .
+
+<http://example.org/idmp/542> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "VOFLOX-500" ;
+    idmp:registrationNumber "1A 91/60(NG)" .
+
+<http://example.org/idmp/543> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "CRAVIXIN 500" ;
+    idmp:registrationNumber "1A 50/59(NG)" .
+
+<http://example.org/idmp/544> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "LEVOFLOX GPO (500 MG)" ;
+    idmp:registrationNumber "1A 32/57(NG)" .
+
+<http://example.org/idmp/545> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "VOCIN 500" ;
+    idmp:registrationNumber "1A 7/59(NG)" .
+
+<http://example.org/idmp/546> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/128> ;
+    idmp:name "THYROXINE" ;
+    idmp:registrationNumber "1A 23/48" .
+
+<http://example.org/idmp/547> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/128> ;
+    idmp:name "THYROXINE" ;
+    idmp:registrationNumber "1A 951/41" .
+
+<http://example.org/idmp/548> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "THYROSIT 50 MCG" ;
+    idmp:registrationNumber "1A 375/43" .
+
+<http://example.org/idmp/549> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "THYROSIT" ;
+    idmp:registrationNumber "1A 426/31" .
+
+<http://example.org/idmp/55> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "AMLOPRESS 5" ;
+    idmp:registrationNumber "1A 73/60(NG)" .
+
+<http://example.org/idmp/550> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/29> ;
+    idmp:name "LIDOCAINE HYDROCHLORIDE 1% INJECTION" ;
+    idmp:registrationNumber "1A 116/36" .
+
+<http://example.org/idmp/551> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/61> ;
+    idmp:name "CHALOCAINE 1%" ;
+    idmp:registrationNumber "1A 125/52" .
+
+<http://example.org/idmp/552> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/61> ;
+    idmp:name "LOCANA" ;
+    idmp:registrationNumber "1A 132/28" .
+
+<http://example.org/idmp/553> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/61> ;
+    idmp:name "LIDOCAINE HYDROCHLORIDE 1%" ;
+    idmp:registrationNumber "1A 196/49" .
+
+<http://example.org/idmp/554> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/61> ;
+    idmp:name "CHALOCAINE 2%" ;
+    idmp:registrationNumber "1A 335/52" .
+
+<http://example.org/idmp/555> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "LIDOCAINE HCL 1%" ;
+    idmp:registrationNumber "1A 228/42" .
+
+<http://example.org/idmp/556> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "LIDOCAINE HYDROCHLORIDE INJECTION 1% W/V" ;
+    idmp:registrationNumber "1A 259/48" .
+
+<http://example.org/idmp/557> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "LIDOCAINE HYDROCHLORIDE INJECTION 2% W/V" ;
+    idmp:registrationNumber "1A 263/48" .
+
+<http://example.org/idmp/558> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/73> ;
+    idmp:name "2% LIDOCAINE HCL INJECTION" ;
+    idmp:registrationNumber "1A 484/48" .
+
+<http://example.org/idmp/559> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/66> ;
+    idmp:name "LIT 300" ;
+    idmp:registrationNumber "1A 429/32" .
+
+<http://example.org/idmp/56> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "AMLOPRESS 10" ;
+    idmp:registrationNumber "1A 74/60(NG)" .
+
+<http://example.org/idmp/560> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "LITHIUM CAPSULES" ;
+    idmp:registrationNumber "1A 410/51" .
+
+<http://example.org/idmp/561> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/25> ;
+    idmp:name "LICARB CAPSULES" ;
+    idmp:registrationNumber "1A 352/47" .
+
+<http://example.org/idmp/562> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "LOPINAVIR/RITONAVIR TABLETS (200 MG/50 MG)" ;
+    idmp:registrationNumber "2A 3/53(NG)" .
+
+<http://example.org/idmp/563> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "FALATIEN JUNIOR" ;
+    idmp:registrationNumber "1A 140/63" .
+
+<http://example.org/idmp/564> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/66> ;
+    idmp:name "KLARYNE" ;
+    idmp:registrationNumber "1A 31/47" .
+
+<http://example.org/idmp/565> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "CARINOSE TABLET" ;
+    idmp:registrationNumber "1A 527/42" .
+
+<http://example.org/idmp/566> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "CLALERGY" ;
+    idmp:registrationNumber "1A 165/59" .
+
+<http://example.org/idmp/567> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "LOLERGY" ;
+    idmp:registrationNumber "1A 481/52" .
+
+<http://example.org/idmp/568> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "ANTA 0.5" ;
+    idmp:registrationNumber "P1A 39/59" .
+
+<http://example.org/idmp/569> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "TRANAVAN 0.5" ;
+    idmp:registrationNumber "P1A 32/59" .
+
+<http://example.org/idmp/57> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/24> ;
+    idmp:name "FLEMING (FOR ORAL SUSPENSION 228.5 MG/5 ML)" ;
+    idmp:registrationNumber "2C 10/56" .
+
+<http://example.org/idmp/570> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "TRANAVAN 1.0" ;
+    idmp:registrationNumber "P1A 33/59" .
+
+<http://example.org/idmp/571> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "LANZAAR 50" ;
+    idmp:registrationNumber "1A 20/53(NG)" .
+
+<http://example.org/idmp/572> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "LANZAAR 100" ;
+    idmp:registrationNumber "1A 3/58(NG)" .
+
+<http://example.org/idmp/573> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "LORANTA 100 MG TABLET" ;
+    idmp:registrationNumber "1A 6/51(NG)" .
+
+<http://example.org/idmp/574> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "LORANTA 50 MG TABLET" ;
+    idmp:registrationNumber "1A 7/50(NG)" .
+
+<http://example.org/idmp/575> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "MECOBA 500" ;
+    idmp:registrationNumber "1A 242/50" .
+
+<http://example.org/idmp/576> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "MECOBAL" ;
+    idmp:registrationNumber "1A 73/47" .
+
+<http://example.org/idmp/577> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/44> ;
+    idmp:name "BALAMINE" ;
+    idmp:registrationNumber "1A 80/50" .
+
+<http://example.org/idmp/578> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "FENAMIC CAPSULE 250 MG" ;
+    idmp:registrationNumber "1A 757/31" .
+
+<http://example.org/idmp/579> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/9> ;
+    idmp:name "MEL-OD 7.5" ;
+    idmp:registrationNumber "1C 36/53(NG)" .
+
+<http://example.org/idmp/58> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/24> ;
+    idmp:name "FLEMING (FOR ORAL SUSPENSION 457 MG/5 ML)" ;
+    idmp:registrationNumber "2C 11/56" .
+
+<http://example.org/idmp/580> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/33> ;
+    idmp:name "XIDANE 7.5" ;
+    idmp:registrationNumber "1A 21/62(NG)" .
+
+<http://example.org/idmp/581> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "MELOBIC-7.5" ;
+    idmp:registrationNumber "1A 27/47(NG)" .
+
+<http://example.org/idmp/582> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "MELCAM" ;
+    idmp:registrationNumber "1A 35/50(NG)" .
+
+<http://example.org/idmp/583> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "MEMXA 10" ;
+    idmp:registrationNumber "1A 14/56(NG)" .
+
+<http://example.org/idmp/584> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/29> ;
+    idmp:name "MONEM" ;
+    idmp:registrationNumber "1A 11/50(NG)" .
+
+<http://example.org/idmp/585> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/43> ;
+    idmp:name "PENEM M.H." ;
+    idmp:registrationNumber "1A 14/50(NG)" .
+
+<http://example.org/idmp/586> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "MAPENEM (500 MG INJECTION)" ;
+    idmp:registrationNumber "1A 55/50(NG)" .
+
+<http://example.org/idmp/587> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "MAPENEM (1 G INJECTION)" ;
+    idmp:registrationNumber "1A 56/50(NG)" .
+
+<http://example.org/idmp/588> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/31> ;
+    idmp:name "METFRON TABLETS" ;
+    idmp:registrationNumber "1A 243/35" .
+
+<http://example.org/idmp/589> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/57> ;
+    idmp:name "BUFORMIN" ;
+    idmp:registrationNumber "1A 305/41" .
+
+<http://example.org/idmp/59> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/25> ;
+    idmp:name "AMK 457" ;
+    idmp:registrationNumber "2A 53/49" .
+
+<http://example.org/idmp/590> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/68> ;
+    idmp:name "METFORMIN TABLET" ;
+    idmp:registrationNumber "1A 246/51" .
+
+<http://example.org/idmp/591> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/68> ;
+    idmp:name "METFORMIN 850 TABLET" ;
+    idmp:registrationNumber "1A 251/51" .
+
+<http://example.org/idmp/592> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "DIASLIM 500 MG TABLET" ;
+    idmp:registrationNumber "1A 494/44" .
+
+<http://example.org/idmp/593> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/30> ;
+    idmp:name "GLUGENMIN" ;
+    idmp:registrationNumber "1A 844/42" .
+
+<http://example.org/idmp/594> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/129> ;
+    idmp:name "MIFORMIN (TABLETS)" ;
+    idmp:registrationNumber "1A 253/46" .
+
+<http://example.org/idmp/595> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/129> ;
+    idmp:name "MIFORMIN 850" ;
+    idmp:registrationNumber "1A 346/46" .
+
+<http://example.org/idmp/596> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/98> ;
+    idmp:name "GLUCOPHAGE (500 MG)" ;
+    idmp:registrationNumber "1A 405/49" .
+
+<http://example.org/idmp/597> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/98> ;
+    idmp:name "GLUCOPHAGE (850 MG)" ;
+    idmp:registrationNumber "1A 406/49" .
+
+<http://example.org/idmp/598> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/99> ;
+    idmp:name "PROPHAGE" ;
+    idmp:registrationNumber "1A 605/41" .
+
+<http://example.org/idmp/599> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "METFOR-500" ;
+    idmp:registrationNumber "1A 78/45" .
+
+<http://example.org/idmp/6> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "VILERM (800 MGTABLET)" ;
+    idmp:registrationNumber "1A 302/39" .
+
+<http://example.org/idmp/60> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/25> ;
+    idmp:name "AMK 228" ;
+    idmp:registrationNumber "2A 69/50" .
+
+<http://example.org/idmp/600> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "METFOR-850" ;
+    idmp:registrationNumber "1A 79/45" .
+
+<http://example.org/idmp/601> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/112> ;
+    idmp:name "METFORIN" ;
+    idmp:registrationNumber "1A 75/54" .
+
+<http://example.org/idmp/602> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "NEOFORMIN" ;
+    idmp:registrationNumber "1A 246/39" .
+
+<http://example.org/idmp/603> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/62> ;
+    idmp:name "GLUCOFORMIN" ;
+    idmp:registrationNumber "1A 415/38" .
+
+<http://example.org/idmp/604> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "DPP 850" ;
+    idmp:registrationNumber "1A 265/56" .
+
+<http://example.org/idmp/605> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/101> ;
+    idmp:name "GLUCOMIN" ;
+    idmp:registrationNumber "1A 199/33" .
+
+<http://example.org/idmp/606> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "POCOPHAGE 850" ;
+    idmp:registrationNumber "1A 413/37" .
+
+<http://example.org/idmp/607> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "GLUZOLYTE" ;
+    idmp:registrationNumber "1A 454/34" .
+
+<http://example.org/idmp/608> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "POLIFORMIN 850" ;
+    idmp:registrationNumber "1A 181/48" .
+
+<http://example.org/idmp/609> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "POLIFORMIN" ;
+    idmp:registrationNumber "1A 60/40" .
+
+<http://example.org/idmp/61> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "CAVUMOX SYRUP ES 600" ;
+    idmp:registrationNumber "2A 3/49" .
+
+<http://example.org/idmp/610> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/25> ;
+    idmp:name "METFORMIN RX" ;
+    idmp:registrationNumber "1A 130/48" .
+
+<http://example.org/idmp/611> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "METSTARMIN" ;
+    idmp:registrationNumber "1A 1043/41" .
+
+<http://example.org/idmp/612> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "GLUCONO-500" ;
+    idmp:registrationNumber "1A 146/42" .
+
+<http://example.org/idmp/613> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "GLUCINO 850" ;
+    idmp:registrationNumber "1A 531/44" .
+
+<http://example.org/idmp/614> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SIAMFORMET 500 (TABLET)" ;
+    idmp:registrationNumber "1A 110/27" .
+
+<http://example.org/idmp/615> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SIAMFORMET 850 (TABLET)" ;
+    idmp:registrationNumber "1A 292/34" .
+
+<http://example.org/idmp/616> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "GLUCOLES-500 TABLET" ;
+    idmp:registrationNumber "1A 573/36" .
+
+<http://example.org/idmp/617> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/35> ;
+    idmp:name "GLUCOLOC" ;
+    idmp:registrationNumber "1A 1194/41" .
+
+<http://example.org/idmp/618> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "METFORMIN HYDROCHLORIDE TABLETS 500 MG" ;
+    idmp:registrationNumber "1A 113/45" .
+
+<http://example.org/idmp/619> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "METFORMIN" ;
+    idmp:registrationNumber "1A 776/40" .
+
+<http://example.org/idmp/62> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/25> ;
+    idmp:name "AMK 312" ;
+    idmp:registrationNumber "2A 54/49" .
+
+<http://example.org/idmp/620> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/44> ;
+    idmp:name "GLUTABLOC" ;
+    idmp:registrationNumber "1A 555/44" .
+
+<http://example.org/idmp/621> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "METFORMIN" ;
+    idmp:registrationNumber "1A 276/37" .
+
+<http://example.org/idmp/622> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/65> ;
+    idmp:name "ELFERMIN" ;
+    idmp:registrationNumber "1A 635/42" .
+
+<http://example.org/idmp/623> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "METFORMIN 500" ;
+    idmp:registrationNumber "1A 97/56" .
+
+<http://example.org/idmp/624> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/25> ;
+    idmp:name "METFORMIN RX 850" ;
+    idmp:registrationNumber "1A 131/48" .
+
+<http://example.org/idmp/625> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/43> ;
+    idmp:name "ALDOMET" ;
+    idmp:registrationNumber "1A 189/48" .
+
+<http://example.org/idmp/626> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/43> ;
+    idmp:name "ISOMET" ;
+    idmp:registrationNumber "1A 751/32" .
+
+<http://example.org/idmp/627> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/43> ;
+    idmp:name "ISOMET" ;
+    idmp:registrationNumber "1A 752/32" .
+
+<http://example.org/idmp/628> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "MEFPA" ;
+    idmp:registrationNumber "1A 12/36" .
+
+<http://example.org/idmp/629> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "METOCLOPRAMIDE INJECTION" ;
+    idmp:registrationNumber "1A 458/48" .
+
+<http://example.org/idmp/63> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/25> ;
+    idmp:name "AMK ES-600" ;
+    idmp:registrationNumber "2A 79/59" .
+
+<http://example.org/idmp/630> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "NAUSIL TABLET" ;
+    idmp:registrationNumber "1A 647/29" .
+
+<http://example.org/idmp/631> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "PLAMIDE" ;
+    idmp:registrationNumber "1A 1540/30" .
+
+<http://example.org/idmp/632> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "MELOL TABLETS" ;
+    idmp:registrationNumber "1A 212/31" .
+
+<http://example.org/idmp/633> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "MELOC TABLET" ;
+    idmp:registrationNumber "1A 357/40" .
+
+<http://example.org/idmp/634> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "CARDELOC" ;
+    idmp:registrationNumber "1A 227/56" .
+
+<http://example.org/idmp/635> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "METROLEX" ;
+    idmp:registrationNumber "1A 565/27" .
+
+<http://example.org/idmp/636> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/130> ;
+    idmp:name "TRICHOGYL I.V." ;
+    idmp:registrationNumber "1C 241/49" .
+
+<http://example.org/idmp/637> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "MEPAGYL" ;
+    idmp:registrationNumber "1A 674/39" .
+
+<http://example.org/idmp/638> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "MEDIZOLE INJECTION" ;
+    idmp:registrationNumber "1A 21/42" .
+
+<http://example.org/idmp/639> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "GYNEGYL" ;
+    idmp:registrationNumber "1A 831/43" .
+
+<http://example.org/idmp/64> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/26> ;
+    idmp:name "AMK INJECTION 1.2 G" ;
+    idmp:registrationNumber "2C 19/52" .
+
+<http://example.org/idmp/640> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "METROLEX TABLET 200 MG" ;
+    idmp:registrationNumber "1A 70/27" .
+
+<http://example.org/idmp/641> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "METRONIDAZOLE 400" ;
+    idmp:registrationNumber "1A 49/53" .
+
+<http://example.org/idmp/642> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "MEPAGYL 400" ;
+    idmp:registrationNumber "1A 59/33" .
+
+<http://example.org/idmp/643> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "METRONIDAZOLE TABLETS" ;
+    idmp:registrationNumber "1A 1917/29" .
+
+<http://example.org/idmp/644> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/131> ;
+    idmp:name "SINGULAIR (10 MG)" ;
+    idmp:registrationNumber "1C 51/55(N)" .
+
+<http://example.org/idmp/645> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "ASTAIR" ;
+    idmp:registrationNumber "1A 3/57(NG)" .
+
+<http://example.org/idmp/646> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "MONTULAIR 10" ;
+    idmp:registrationNumber "1A 17/58(NG)" .
+
+<http://example.org/idmp/647> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/43> ;
+    idmp:name "MORPHINE SULFATE INJECTION" ;
+    idmp:registrationNumber "na-a08ac62275c8f44da803684e1d5987" .
+
+<http://example.org/idmp/648> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "MORPHINE SULFATE IR TABLETS 10 MG" ;
+    idmp:registrationNumber "na-9569edda4786c7d246712edbb32712" .
+
+<http://example.org/idmp/649> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/58> ;
+    idmp:name "SYNOGIN" ;
+    idmp:registrationNumber "1A 2218/30" .
+
+<http://example.org/idmp/65> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/24> ;
+    idmp:name "FLEMING 625 MG TABLETS" ;
+    idmp:registrationNumber "2C 7/56" .
+
+<http://example.org/idmp/650> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "NAPROXEN 250" ;
+    idmp:registrationNumber "1A 399/32" .
+
+<http://example.org/idmp/651> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/15> ;
+    idmp:name "NEOXEN" ;
+    idmp:registrationNumber "1A 193/39" .
+
+<http://example.org/idmp/652> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/32> ;
+    idmp:name "SYNFLEX" ;
+    idmp:registrationNumber "1A 184/42" .
+
+<http://example.org/idmp/653> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "POLYXEN" ;
+    idmp:registrationNumber "1A 2094/30" .
+
+<http://example.org/idmp/654> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/63> ;
+    idmp:name "NAPROXEN 250" ;
+    idmp:registrationNumber "1A 421/50" .
+
+<http://example.org/idmp/655> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/132> ;
+    idmp:name "NAXENE" ;
+    idmp:registrationNumber "1A 589/36" .
+
+<http://example.org/idmp/656> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/35> ;
+    idmp:name "ARTHROLONE TABLETS" ;
+    idmp:registrationNumber "1A 1270/28" .
+
+<http://example.org/idmp/657> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "NAPROXEN TABLETS 250 MG" ;
+    idmp:registrationNumber "1A 911/42" .
+
+<http://example.org/idmp/658> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "NASIN" ;
+    idmp:registrationNumber "1A 2087/30" .
+
+<http://example.org/idmp/659> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "NAPROXEN" ;
+    idmp:registrationNumber "1A 1351/28" .
+
+<http://example.org/idmp/66> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/24> ;
+    idmp:name "FLEMING 1000 MG TABLETS" ;
+    idmp:registrationNumber "2C 8/56" .
+
+<http://example.org/idmp/660> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/114> ;
+    idmp:name "TENDOSIN" ;
+    idmp:registrationNumber "1A 885/41" .
+
+<http://example.org/idmp/661> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "ANNOXEN-S (275 MG TABLET)" ;
+    idmp:registrationNumber "1A 129/35" .
+
+<http://example.org/idmp/662> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "NEOSTIGMINE METHYLSULFATE INJECTION" ;
+    idmp:registrationNumber "1A 48/50" .
+
+<http://example.org/idmp/663> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/129> ;
+    idmp:name "NICOTINIC ACID" ;
+    idmp:registrationNumber "1A 2567/28" .
+
+<http://example.org/idmp/664> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/133> ;
+    idmp:name "NORPIN (INJECTION)" ;
+    idmp:registrationNumber "1C 234/51" .
+
+<http://example.org/idmp/665> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/134> ;
+    idmp:name "N-EPI INJECTION" ;
+    idmp:registrationNumber "1C 96/61" .
+
+<http://example.org/idmp/666> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/104> ;
+    idmp:name "NORVITA IV" ;
+    idmp:registrationNumber "1A 15053/63" .
+
+<http://example.org/idmp/667> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/88> ;
+    idmp:name "NORLAPEX" ;
+    idmp:registrationNumber "1A 37/65" .
+
+<http://example.org/idmp/668> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/3> ;
+    idmp:name "NORFLOXACIN 400 MG TABLET" ;
+    idmp:registrationNumber "1A 1151/43" .
+
+<http://example.org/idmp/669> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "NORXACIN 400 MG TABLET" ;
+    idmp:registrationNumber "1A 416/33" .
+
+<http://example.org/idmp/67> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/25> ;
+    idmp:name "AMK 1000" ;
+    idmp:registrationNumber "2A 55/49" .
+
+<http://example.org/idmp/670> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/44> ;
+    idmp:name "U-FLOX-400" ;
+    idmp:registrationNumber "1A 266/50" .
+
+<http://example.org/idmp/671> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "ORTRIP 25" ;
+    idmp:registrationNumber "1A 390/36" .
+
+<http://example.org/idmp/672> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "ORTRIP 10" ;
+    idmp:registrationNumber "1A 430/36" .
+
+<http://example.org/idmp/673> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/2> ;
+    idmp:name "OFLOCEE 200" ;
+    idmp:registrationNumber "1A 706/43" .
+
+<http://example.org/idmp/674> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "FLOXY-200" ;
+    idmp:registrationNumber "1A 26/47" .
+
+<http://example.org/idmp/675> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "TAROXIN 200" ;
+    idmp:registrationNumber "1A 410/55" .
+
+<http://example.org/idmp/676> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "OFLOXYL 200" ;
+    idmp:registrationNumber "1A 186/55" .
+
+<http://example.org/idmp/677> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "OLAPIN-5" ;
+    idmp:registrationNumber "1A 45/54(NG)" .
+
+<http://example.org/idmp/678> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/135> ;
+    idmp:name "OLMETEC (TABLETS 20 MG)" ;
+    idmp:registrationNumber "1C 16/50(N)" .
+
+<http://example.org/idmp/679> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "ESATEC 20" ;
+    idmp:registrationNumber "1A 35/59(NG)" .
+
+<http://example.org/idmp/68> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/27> ;
+    idmp:name "CURAM 1000 MG" ;
+    idmp:registrationNumber "2C 58/46" .
+
+<http://example.org/idmp/680> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "MIRACID" ;
+    idmp:registrationNumber "1A 485/36" .
+
+<http://example.org/idmp/681> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "OMEPRAZOLE GPO" ;
+    idmp:registrationNumber "1A 269/57" .
+
+<http://example.org/idmp/682> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/9> ;
+    idmp:name "OCID" ;
+    idmp:registrationNumber "1C 221/47" .
+
+<http://example.org/idmp/683> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/136> ;
+    idmp:name "LOKIT" ;
+    idmp:registrationNumber "1C 381/49" .
+
+<http://example.org/idmp/684> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "D-PRAZOL" ;
+    idmp:registrationNumber "1A 91/59" .
+
+<http://example.org/idmp/685> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "ONSIA (4 MG TABLET)" ;
+    idmp:registrationNumber "1A 8/42(NG)" .
+
+<http://example.org/idmp/686> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "ONSIA (8 MG TABLET)" ;
+    idmp:registrationNumber "1A 9/42(NG)" .
+
+<http://example.org/idmp/687> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/29> ;
+    idmp:name "ZETRON" ;
+    idmp:registrationNumber "1A 5/42(NG)" .
+
+<http://example.org/idmp/688> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "ONSIA INJECTION" ;
+    idmp:registrationNumber "1A 17/42(NG)" .
+
+<http://example.org/idmp/689> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "PHINDROZ" ;
+    idmp:registrationNumber "1A 148/57" .
+
+<http://example.org/idmp/69> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "CAVUMOX (1 G TABLET )" ;
+    idmp:registrationNumber "2A 95/46" .
+
+<http://example.org/idmp/690> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/57> ;
+    idmp:name "MYMOL" ;
+    idmp:registrationNumber "1A 114/55" .
+
+<http://example.org/idmp/691> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "PARA GPO" ;
+    idmp:registrationNumber "1A 407/48" .
+
+<http://example.org/idmp/692> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "PATBLU" ;
+    idmp:registrationNumber "1A 129/53" .
+
+<http://example.org/idmp/693> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "PATBLU 500" ;
+    idmp:registrationNumber "1A 305/61" .
+
+<http://example.org/idmp/694> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "SARA FEVER AND PAIN MEDICATION MEDICATION" ;
+    idmp:registrationNumber "1A 820/43" .
+
+<http://example.org/idmp/695> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "SARA" ;
+    idmp:registrationNumber "1A 822/43" .
+
+<http://example.org/idmp/696> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "PERNAZINE (8 MG)" ;
+    idmp:registrationNumber "1A 1050/28" .
+
+<http://example.org/idmp/697> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/46> ;
+    idmp:name "MONAZINE-4" ;
+    idmp:registrationNumber "1A 111/28" .
+
+<http://example.org/idmp/698> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "PORAZINE 8" ;
+    idmp:registrationNumber "1A 299/35" .
+
+<http://example.org/idmp/699> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "PORAZINE 4" ;
+    idmp:registrationNumber "1A 327/35" .
+
+<http://example.org/idmp/7> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "VILERM (400 MG TABLET)" ;
+    idmp:registrationNumber "1A 304/39" .
+
+<http://example.org/idmp/70> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/28> ;
+    idmp:name "RANCLAV TABLETS 1 G" ;
+    idmp:registrationNumber "2C 15/60" .
+
+<http://example.org/idmp/700> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "CONAZINE 8F/C TABLET" ;
+    idmp:registrationNumber "1A 57/53" .
+
+<http://example.org/idmp/701> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "PHENOBARBITONE TABLETS (30 MG)" ;
+    idmp:registrationNumber "P1A 7/58" .
+
+<http://example.org/idmp/702> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "PHENOBARBITONE TABLETS (60 MG)" ;
+    idmp:registrationNumber "P1A 8/58" .
+
+<http://example.org/idmp/703> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "UTMOS 15" ;
+    idmp:registrationNumber "1A 17/51(NG)" .
+
+<http://example.org/idmp/704> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "UTMOS 30" ;
+    idmp:registrationNumber "1A 40/50(NG)" .
+
+<http://example.org/idmp/705> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SENZULIN (30 MG TABLET)" ;
+    idmp:registrationNumber "1A 18/51(NG)" .
+
+<http://example.org/idmp/706> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "GITAZONE-FORTE" ;
+    idmp:registrationNumber "1A 16/53(NG)" .
+
+<http://example.org/idmp/707> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "GITAZONE" ;
+    idmp:registrationNumber "1A 32/54(NG)" .
+
+<http://example.org/idmp/708> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SENZULIN (15 MG TABLET)" ;
+    idmp:registrationNumber "1A 1/53(NG)" .
+
+<http://example.org/idmp/709> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "NEOTICA CAPSULE" ;
+    idmp:registrationNumber "1A 343/40" .
+
+<http://example.org/idmp/71> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "GPO MOX CAPSULES 500 MG" ;
+    idmp:registrationNumber "1A 383/51" .
+
+<http://example.org/idmp/710> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/137> ;
+    idmp:name "KCL FOR INJECTION" ;
+    idmp:registrationNumber "1A 354/51" .
+
+<http://example.org/idmp/711> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/135> ;
+    idmp:name "MEVALOTIN PROTECT 20 MG" ;
+    idmp:registrationNumber "1C 115/56(N)" .
+
+<http://example.org/idmp/712> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/135> ;
+    idmp:name "MEVALOTIN PROTECT 40 MG" ;
+    idmp:registrationNumber "1C 116/56(N)" .
+
+<http://example.org/idmp/713> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/94> ;
+    idmp:name "PRAVA 40" ;
+    idmp:registrationNumber "1C 101/60(NG)" .
+
+<http://example.org/idmp/714> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "PRASIKON" ;
+    idmp:registrationNumber "1A 1236/31" .
+
+<http://example.org/idmp/715> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "PRIMAQUINE TABLETS 15 MG" ;
+    idmp:registrationNumber "1A 449/45" .
+
+<http://example.org/idmp/716> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "BETALOL 40 MG" ;
+    idmp:registrationNumber "1A 120/32" .
+
+<http://example.org/idmp/717> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "BETALOL 10 MG" ;
+    idmp:registrationNumber "1A 145/32" .
+
+<http://example.org/idmp/718> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "CARDENOL 40" ;
+    idmp:registrationNumber "1A 226/56" .
+
+<http://example.org/idmp/719> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "CARDENOL 10" ;
+    idmp:registrationNumber "1A 63/56" .
+
+<http://example.org/idmp/72> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "GPO MOX (CAPSULES 250 MG)" ;
+    idmp:registrationNumber "1A 47/57" .
+
+<http://example.org/idmp/720> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "PROPRANOLOL TABLETS 10 MG" ;
+    idmp:registrationNumber "1A 346/43" .
+
+<http://example.org/idmp/721> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "PYRAZINAMIDE 0.5 G" ;
+    idmp:registrationNumber "1A 188/27" .
+
+<http://example.org/idmp/722> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "PYRAZINAMIDE TABLETS" ;
+    idmp:registrationNumber "1A 317/45" .
+
+<http://example.org/idmp/723> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/138> ;
+    idmp:name "MESTINON 60 MG" ;
+    idmp:registrationNumber "1C 89/51" .
+
+<http://example.org/idmp/724> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/139> ;
+    idmp:name "DISTINON" ;
+    idmp:registrationNumber "1C 187/46" .
+
+<http://example.org/idmp/725> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "PYRIMINE 60" ;
+    idmp:registrationNumber "1A 273/50" .
+
+<http://example.org/idmp/726> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "QUANTIA 25" ;
+    idmp:registrationNumber "1A 12/55(NG)" .
+
+<http://example.org/idmp/727> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "QUANTIA 100" ;
+    idmp:registrationNumber "1A 13/55(NG)" .
+
+<http://example.org/idmp/728> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "QUININE SULPHATE TABLETS" ;
+    idmp:registrationNumber "1A 423/45" .
+
+<http://example.org/idmp/729> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/106> ;
+    idmp:name "TRITACE 5" ;
+    idmp:registrationNumber "1C 303/50" .
+
+<http://example.org/idmp/73> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/29> ;
+    idmp:name "AMPHOTERICIN-B" ;
+    idmp:registrationNumber "1A 100/47" .
+
+<http://example.org/idmp/730> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
+    idmp:name "RANID" ;
+    idmp:registrationNumber "1A 1196/43" .
+
+<http://example.org/idmp/731> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/22> ;
+    idmp:name "ACICARE 150" ;
+    idmp:registrationNumber "1C 9/51" .
+
+<http://example.org/idmp/732> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/32> ;
+    idmp:name "RIFINAH 300" ;
+    idmp:registrationNumber "2A 909/28" .
+
+<http://example.org/idmp/733> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "RIFAM CAPSULE 300 MG" ;
+    idmp:registrationNumber "1A 801/30" .
+
+<http://example.org/idmp/734> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "RIFAMPICIN CAPSULES" ;
+    idmp:registrationNumber "1A 222/54" .
+
+<http://example.org/idmp/735> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "RIFAMPICIN CAPSULES" ;
+    idmp:registrationNumber "1A 247/53" .
+
+<http://example.org/idmp/736> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/123> ;
+    idmp:name "NEURIS (1.0 MG TABLET)" ;
+    idmp:registrationNumber "1A 10/57(NG)" .
+
+<http://example.org/idmp/737> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/123> ;
+    idmp:name "NEURIS (2.0 MG TABLET)" ;
+    idmp:registrationNumber "1A 23/54(NG)" .
+
+<http://example.org/idmp/738> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "RISPERIDONE GPO (TABLETS 2 MG)" ;
+    idmp:registrationNumber "1A 14/53(NG)" .
+
+<http://example.org/idmp/739> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "RISPERIDONE GPO (TABLETS 1 MG)" ;
+    idmp:registrationNumber "1A 19/53(NG)" .
+
+<http://example.org/idmp/74> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SULAM (3 G INJECTION)" ;
+    idmp:registrationNumber "2A 123/50" .
+
+<http://example.org/idmp/740> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/140> ;
+    idmp:name "XARELTO 15 MG" ;
+    idmp:registrationNumber "1C 101/55(N)" .
+
+<http://example.org/idmp/741> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/140> ;
+    idmp:name "XARELTO 20 MG" ;
+    idmp:registrationNumber "1C 102/55(N)" .
+
+<http://example.org/idmp/742> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/141> ;
+    idmp:name "EXELON 1.5 MG" ;
+    idmp:registrationNumber "1C 18/45(N)" .
+
+<http://example.org/idmp/743> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/141> ;
+    idmp:name "EXELON 3 MG" ;
+    idmp:registrationNumber "1C 19/45(N)" .
+
+<http://example.org/idmp/744> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/141> ;
+    idmp:name "EXELON 6 MG" ;
+    idmp:registrationNumber "1C 21/45(N)" .
+
+<http://example.org/idmp/745> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "RIVASTA 3 MG CAPSULE" ;
+    idmp:registrationNumber "1A 27/56(NG)" .
+
+<http://example.org/idmp/746> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "RIVASTA 1.5 MG CAPSULE" ;
+    idmp:registrationNumber "1A 40/56(NG)" .
+
+<http://example.org/idmp/747> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/142> ;
+    idmp:name "VIVACOR (10 MG)" ;
+    idmp:registrationNumber "1C 80/57(N)" .
+
+<http://example.org/idmp/748> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/36> ;
+    idmp:name "ROSUVASTATIN SANDOZ (10 MG)" ;
+    idmp:registrationNumber "1C 15/56(NG)" .
+
+<http://example.org/idmp/749> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "K-ZUVA 20" ;
+    idmp:registrationNumber "1A 35/60(NG)" .
+
+<http://example.org/idmp/75> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SULAM (1.5 G INJECTION )" ;
+    idmp:registrationNumber "2A 8/46" .
+
+<http://example.org/idmp/750> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "K-ZUVA 10" ;
+    idmp:registrationNumber "1A 53/60(NG)" .
+
+<http://example.org/idmp/751> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SUROTIN (20 MG TABLET)" ;
+    idmp:registrationNumber "1A 1/61(NG)" .
+
+<http://example.org/idmp/752> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SUROTIN (10 MG TABLET)" ;
+    idmp:registrationNumber "1A 34/61(NG)" .
+
+<http://example.org/idmp/753> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "ROVASTOR 20" ;
+    idmp:registrationNumber "1A 50/60(NG)" .
+
+<http://example.org/idmp/754> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/43> ;
+    idmp:name "ZOTALINE" ;
+    idmp:registrationNumber "1A 18/53(NG)" .
+
+<http://example.org/idmp/755> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "SELROTINE 50 MG TABLET" ;
+    idmp:registrationNumber "1A 31/57(NG)" .
+
+<http://example.org/idmp/756> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/28> ;
+    idmp:name "SERLIFT 50 TABLETS 50 MG" ;
+    idmp:registrationNumber "1C 33/60(NG)" .
+
+<http://example.org/idmp/757> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "SISALON 50" ;
+    idmp:registrationNumber "1A 33/56(NG)" .
+
+<http://example.org/idmp/758> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "SERTRALINE GPO" ;
+    idmp:registrationNumber "1A 13/53(NG)" .
+
+<http://example.org/idmp/759> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "SIDEGRA (50 MG)" ;
+    idmp:registrationNumber "1A 21/55(NG)" .
+
+<http://example.org/idmp/76> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/17> ;
+    idmp:name "STERILE AMPICILLIN SODIUM" ;
+    idmp:registrationNumber "1A 1349/29" .
+
+<http://example.org/idmp/760> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "SILATIO" ;
+    idmp:registrationNumber "1A 27/58(NG)" .
+
+<http://example.org/idmp/761> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/129> ;
+    idmp:name "EUCOR" ;
+    idmp:registrationNumber "1A 2/47(NG)" .
+
+<http://example.org/idmp/762> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/129> ;
+    idmp:name "EUCOR" ;
+    idmp:registrationNumber "1A 3/45(NG)" .
+
+<http://example.org/idmp/763> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/143> ;
+    idmp:name "ZIMMEX" ;
+    idmp:registrationNumber "1A 30/64(NG)" .
+
+<http://example.org/idmp/764> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/143> ;
+    idmp:name "ZIMMEX 20" ;
+    idmp:registrationNumber "1A 28/64(NG)" .
+
+<http://example.org/idmp/765> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "ZIMVA (10 MG)" ;
+    idmp:registrationNumber "1A 33/53(NG)" .
+
+<http://example.org/idmp/766> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "ZIMVA (20 MG)" ;
+    idmp:registrationNumber "1A 31/53(NG)" .
+
+<http://example.org/idmp/767> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "ZIMVA (40 MG)" ;
+    idmp:registrationNumber "1A 34/53(NG)" .
+
+<http://example.org/idmp/768> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/144> ;
+    idmp:name "JANUVIA (100 MG)" ;
+    idmp:registrationNumber "1C 71/55(N)" .
+
+<http://example.org/idmp/769> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "SODIUM BICARBONATE INJECTION" ;
+    idmp:registrationNumber "1A 22/26" .
+
+<http://example.org/idmp/77> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/30> ;
+    idmp:name "STERILE AMPICILLIN SODIUM" ;
+    idmp:registrationNumber "1A 487/30" .
+
+<http://example.org/idmp/770> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/145> ;
+    idmp:name "SOLUTION OF ISOTONIC SODIUM CHLORIDE" ;
+    idmp:registrationNumber "1A 424/28" .
+
+<http://example.org/idmp/771> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/104> ;
+    idmp:name "0.9% SODIUM CHLORIDE NSS" ;
+    idmp:registrationNumber "1A 328/48" .
+
+<http://example.org/idmp/772> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/137> ;
+    idmp:name "0.9% SODIUM CHLORIDE NSS" ;
+    idmp:registrationNumber "1A 259/49" .
+
+<http://example.org/idmp/773> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/52> ;
+    idmp:name "SODIUM CHLORIDE INJECTION" ;
+    idmp:registrationNumber "1A 1427/30" .
+
+<http://example.org/idmp/774> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/32> ;
+    idmp:name "DEPAKINE" ;
+    idmp:registrationNumber "1A 542/33" .
+
+<http://example.org/idmp/775> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "EPIATE SYRUP" ;
+    idmp:registrationNumber "1A 65/56" .
+
+<http://example.org/idmp/776> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/13> ;
+    idmp:name "DEPAKINE CHRONO 500 MG" ;
+    idmp:registrationNumber "1C 344/49" .
+
+<http://example.org/idmp/777> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/110> ;
+    idmp:name "DEPAKINE 200 MG" ;
+    idmp:registrationNumber "1C 103/56" .
+
+<http://example.org/idmp/778> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/28> ;
+    idmp:name "ENCORATE" ;
+    idmp:registrationNumber "1C 122/58" .
+
+<http://example.org/idmp/779> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/146> ;
+    idmp:name "VALPARIN-200 ALKALETS" ;
+    idmp:registrationNumber "1C 75/49" .
+
+<http://example.org/idmp/78> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/31> ;
+    idmp:name "ENTRARIN ENTERIC COATED TABLETS" ;
+    idmp:registrationNumber "1A 2301/28" .
+
+<http://example.org/idmp/780> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "HYLES 25" ;
+    idmp:registrationNumber "1A 202/45" .
+
+<http://example.org/idmp/781> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "HYLES 100" ;
+    idmp:registrationNumber "1A 203/45" .
+
+<http://example.org/idmp/782> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "ALTONE TABLETS" ;
+    idmp:registrationNumber "1A 1627/30" .
+
+<http://example.org/idmp/783> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "SARIDINE - E" ;
+    idmp:registrationNumber "1A 116/50" .
+
+<http://example.org/idmp/784> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/147> ;
+    idmp:name "SALAZOPYRIN (EN- TABS)" ;
+    idmp:registrationNumber "1C 192/39" .
+
+<http://example.org/idmp/785> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "SALAZINE" ;
+    idmp:registrationNumber "1A 292/52" .
+
+<http://example.org/idmp/786> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "TENO-EM" ;
+    idmp:registrationNumber "2A 5/56(NG)" .
+
+<http://example.org/idmp/787> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "FORVIC 300" ;
+    idmp:registrationNumber "1A 32/61(NG)" .
+
+<http://example.org/idmp/788> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "TENEVIR" ;
+    idmp:registrationNumber "1A 41/60(NG)" .
+
+<http://example.org/idmp/789> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/92> ;
+    idmp:name "THEORI-200" ;
+    idmp:registrationNumber "1C 101/52" .
+
+<http://example.org/idmp/79> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/32> ;
+    idmp:name "ASPENT-M" ;
+    idmp:registrationNumber "1A 1287/41" .
+
+<http://example.org/idmp/790> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/32> ;
+    idmp:name "TAPAZOLE" ;
+    idmp:registrationNumber "1A 456/51" .
+
+<http://example.org/idmp/791> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "TIMAZOL" ;
+    idmp:registrationNumber "1A 85/48" .
+
+<http://example.org/idmp/792> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/31> ;
+    idmp:name "THIOSIA S/C TABLETS (10 MG)" ;
+    idmp:registrationNumber "1A 877/31" .
+
+<http://example.org/idmp/793> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/46> ;
+    idmp:name "TIDAZINE-25" ;
+    idmp:registrationNumber "1A 172/29" .
+
+<http://example.org/idmp/794> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/148> ;
+    idmp:name "BRILINTA (FILM-COATED TABLETS 90 MG)" ;
+    idmp:registrationNumber "1C 32/59(N)" .
+
+<http://example.org/idmp/795> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/23> ;
+    idmp:name "TICATA 90" ;
+    idmp:registrationNumber "1A 49/62(NG)" .
+
+<http://example.org/idmp/796> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/149> ;
+    idmp:name "TIMOLOL MALEATE EYE DROPS (0.5%)" ;
+    idmp:registrationNumber "1C 95/60" .
+
+<http://example.org/idmp/797> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/150> ;
+    idmp:name "GLUCOTIM" ;
+    idmp:registrationNumber "1C 94/53" .
+
+<http://example.org/idmp/798> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/72> ;
+    idmp:name "GLAUCO-OPH EYE DROPS STERILE 0.50%" ;
+    idmp:registrationNumber "1A 799/28" .
+
+<http://example.org/idmp/799> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "TIDAR 4 MG" ;
+    idmp:registrationNumber "1A 192/52" .
+
+<http://example.org/idmp/8> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "VILERM (200 MG TABLET)" ;
+    idmp:registrationNumber "1A 305/39" .
+
+<http://example.org/idmp/80> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/33> ;
+    idmp:name "B-ASPIRIN 81" ;
+    idmp:registrationNumber "1A 270/48" .
+
+<http://example.org/idmp/800> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/151> ;
+    idmp:name "MORAMAX 50" ;
+    idmp:registrationNumber "1C 15/58(NG)" .
+
+<http://example.org/idmp/801> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "PITOMATE (25 MG TABLET)" ;
+    idmp:registrationNumber "1A 36/61(NG)" .
+
+<http://example.org/idmp/802> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "PITOMATE (50 MG TABLET)" ;
+    idmp:registrationNumber "1A 37/61(NG)" .
+
+<http://example.org/idmp/803> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "PITOMATE (100 MG TABLET)" ;
+    idmp:registrationNumber "1A 38/61(NG)" .
+
+<http://example.org/idmp/804> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/152> ;
+    idmp:name "TRAMAL (CAPSULES)" ;
+    idmp:registrationNumber "1C 100/60" .
+
+<http://example.org/idmp/805> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "VOLCIDOL" ;
+    idmp:registrationNumber "1A 227/38" .
+
+<http://example.org/idmp/806> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "PAINDOL" ;
+    idmp:registrationNumber "1A 39/43" .
+
+<http://example.org/idmp/807> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "TRAMADOL" ;
+    idmp:registrationNumber "1A 381/51" .
+
+<http://example.org/idmp/808> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/32> ;
+    idmp:name "TRANSAMIN INJECTION" ;
+    idmp:registrationNumber "1A 515/46" .
+
+<http://example.org/idmp/809> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/33> ;
+    idmp:name "DEZODONE" ;
+    idmp:registrationNumber "1A 64/49" .
+
+<http://example.org/idmp/81> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/33> ;
+    idmp:name "ASPREX 81" ;
+    idmp:registrationNumber "1A 443/56" .
+
+<http://example.org/idmp/810> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "TRAZODONE 50" ;
+    idmp:registrationNumber "1A 39/51" .
+
+<http://example.org/idmp/811> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/53> ;
+    idmp:name "TRAZODEL 50" ;
+    idmp:registrationNumber "1A 284/45" .
+
+<http://example.org/idmp/812> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "ZODONREL" ;
+    idmp:registrationNumber "1A 12/49" .
+
+<http://example.org/idmp/813> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "ZOREL" ;
+    idmp:registrationNumber "1A 13/49" .
+
+<http://example.org/idmp/814> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/18> ;
+    idmp:name "TRAZO" ;
+    idmp:registrationNumber "1A 389/48" .
+
+<http://example.org/idmp/815> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/61> ;
+    idmp:name "KANOLONE" ;
+    idmp:registrationNumber "1A 203/30" .
+
+<http://example.org/idmp/816> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/61> ;
+    idmp:name "KANOLONE-F" ;
+    idmp:registrationNumber "1A 345/33" .
+
+<http://example.org/idmp/817> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "TRIOZINE 5" ;
+    idmp:registrationNumber "1A 388/35" .
+
+<http://example.org/idmp/818> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "TRIFLAZINE TABLETS" ;
+    idmp:registrationNumber "1A 92/47" .
+
+<http://example.org/idmp/819> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "ACA (2 MG)" ;
+    idmp:registrationNumber "1A 116/27" .
+
+<http://example.org/idmp/82> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/33> ;
+    idmp:name "ASPREX 300" ;
+    idmp:registrationNumber "1A 466/56" .
+
+<http://example.org/idmp/820> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "ACA (5 MG)" ;
+    idmp:registrationNumber "1A 1564/28" .
+
+<http://example.org/idmp/821> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "BENZHEXOL TABLETS 2 MG" ;
+    idmp:registrationNumber "1A 27/46" .
+
+<http://example.org/idmp/822> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "BENZHEXOL TABLETS 5 MG" ;
+    idmp:registrationNumber "1A 28/46" .
+
+<http://example.org/idmp/823> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/141> ;
+    idmp:name "DIOVAN 160 (TABLETS)" ;
+    idmp:registrationNumber "1C 111/51(N)" .
+
+<http://example.org/idmp/824> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/141> ;
+    idmp:name "TAREG 160 (TABLETS)" ;
+    idmp:registrationNumber "1C 25/54(N)" .
+
+<http://example.org/idmp/825> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/109> ;
+    idmp:name "G-VANC" ;
+    idmp:registrationNumber "1C 146/53" .
+
+<http://example.org/idmp/826> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "VANCIN-S (500 MG INJECTION)" ;
+    idmp:registrationNumber "1A 307/47" .
+
+<http://example.org/idmp/827> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "VANCIN-S (1 G INJECTION)" ;
+    idmp:registrationNumber "1A 382/49" .
+
+<http://example.org/idmp/828> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "VERMINE" ;
+    idmp:registrationNumber "1A 254/37" .
+
+<http://example.org/idmp/829> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/69> ;
+    idmp:name "VITAMIN K1 INJECTION" ;
+    idmp:registrationNumber "1A 2016/29" .
+
+<http://example.org/idmp/83> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "ASPIRIN TABLETS" ;
+    idmp:registrationNumber "1A 207/57" .
+
+<http://example.org/idmp/830> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/139> ;
+    idmp:name "KENADION" ;
+    idmp:registrationNumber "1C 176/50" .
+
+<http://example.org/idmp/831> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "BEFARIN 2" ;
+    idmp:registrationNumber "1A 32/46" .
+
+<http://example.org/idmp/832> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "BEFARIN 3" ;
+    idmp:registrationNumber "1A 362/45" .
+
+<http://example.org/idmp/833> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "MAFORAN 1 MG" ;
+    idmp:registrationNumber "1A 131/59" .
+
+<http://example.org/idmp/834> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "MAFORAN 2 MG" ;
+    idmp:registrationNumber "1A 81/46" .
+
+<http://example.org/idmp/835> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "MAFORAN 4 MG" ;
+    idmp:registrationNumber "1A 82/46" .
+
+<http://example.org/idmp/836> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "MAFORAN 3 MG" ;
+    idmp:registrationNumber "1A 97/46" .
+
+<http://example.org/idmp/837> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/42> ;
+    idmp:name "MAFORAN 5 MG" ;
+    idmp:registrationNumber "1A 98/46" .
+
+<http://example.org/idmp/838> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
+    idmp:name "GPO-VIR Z 250 TABLET" ;
+    idmp:registrationNumber "2A 1/57(NC)" .
+
+<http://example.org/idmp/839> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/153> ;
+    idmp:name "CURCUMA LONGA CAPSULES" ;
+    idmp:registrationNumber "G 317/48" .
+
+<http://example.org/idmp/84> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/34> ;
+    idmp:name "PIRIN (FILM ENTERIC COATED)" ;
+    idmp:registrationNumber "1A 81/57" .
+
+<http://example.org/idmp/840> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/154> ;
+    idmp:name "KAMAG" ;
+    idmp:registrationNumber "G 311/56" .
+
+<http://example.org/idmp/841> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/155> ;
+    idmp:name "nan" ;
+    idmp:registrationNumber "เธเนเธฒเธ—เธฐเธฅเธฒเธขเนเธเธฃเนเธเธเธเธนเธฅ" .
+
+<http://example.org/idmp/842> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/156> ;
+    idmp:name "nan" ;
+    idmp:registrationNumber "เธเนเธฒเธ—เธฐเธฅเธฒเธขเนเธเธฃเนเธเธเธเธนเธฅ" .
+
+<http://example.org/idmp/843> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/157> ;
+    idmp:name "เธเนเธฒเธ—เธฐเธฅเธฒเธขเนเธเธฃเนเธเธเธเธนเธฅ" ;
+    idmp:registrationNumber "G 468/41" .
+
+<http://example.org/idmp/844> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/158> ;
+    idmp:name "เธขเธฒเธซเธญเธกเน€เธ—เธเธเธดเธ•เธฃเน€เธเธฃเธทเนเธญเธเธซเธกเธฒเธขเธเธฒเธฃเธเนเธฒเธเธฒเธงเธฅเธฐเธญเธญ" ;
+    idmp:registrationNumber "G 418/52" .
+
+<http://example.org/idmp/845> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/2> ;
+    idmp:name "CAPSIKA-25 GEL" ;
+    idmp:registrationNumber "G 189/49" .
+
+<http://example.org/idmp/846> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/157> ;
+    idmp:name "เน€เธเธฅเธเธฃเธดเธ (CAPSAICIN GEL)" ;
+    idmp:registrationNumber "G 480/41" .
+
+<http://example.org/idmp/847> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/159> ;
+    idmp:name "เธขเธฒเนเธเธเธเธนเธฅเน€เธ–เธฒเธงเธฑเธฅเธขเนเน€เธเธฃเธตเธขเธ เธ•เธฃเธฒ เธญเธ เธฑเธขเธ เธนเน€เธเธจเธฃ" ;
+    idmp:registrationNumber "G 224/46" .
+
+<http://example.org/idmp/848> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/153> ;
+    idmp:name "เธขเธฒเนเธเธเธเธนเธฅเน€เธ–เธฒเธงเธฑเธฅเธขเนเน€เธเธฃเธตเธขเธ เธ•เธฃเธฒ เน€เธเน€เธญเนเธกเธเธต" ;
+    idmp:registrationNumber "G 59/52" .
+
+<http://example.org/idmp/849> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/160> ;
+    idmp:name "เธขเธฒเธชเธกเธธเธเนเธเธฃเธเธเธดเธ”เนเธเธเธเธนเธฅเน€เธ–เธฒเธงเธฑเธฅเธขเนเน€เธเธฃเธตเธขเธ 400 เธกเธดเธฅเธฅเธดเธเธฃเธฑเธก" ;
+    idmp:registrationNumber "na-4e46446efc95c20095828dbbdda808" .
+
+<http://example.org/idmp/85> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
+    idmp:name "ASCOT 81" ;
+    idmp:registrationNumber "1A 32/52" .
+
+<http://example.org/idmp/86> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/12> ;
+    idmp:name "ASATAB" ;
+    idmp:registrationNumber "1A 381/48" .
+
+<http://example.org/idmp/87> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/35> ;
+    idmp:name "ASPIRIN TABLETS" ;
+    idmp:registrationNumber "1A 40/27" .
+
+<http://example.org/idmp/88> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "PRENOLOL 25" ;
+    idmp:registrationNumber "1A 491/36" .
+
+<http://example.org/idmp/89> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "PRENOLOL 100" ;
+    idmp:registrationNumber "1A 495/32" .
+
+<http://example.org/idmp/9> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/7> ;
+    idmp:name "ALBENZ" ;
+    idmp:registrationNumber "1A 11/31" .
+
+<http://example.org/idmp/90> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/19> ;
+    idmp:name "PRENOLOL 50" ;
+    idmp:registrationNumber "1A 496/32" .
+
+<http://example.org/idmp/91> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
+    idmp:name "TETALIN 50" ;
+    idmp:registrationNumber "1A 905/43" .
+
+<http://example.org/idmp/92> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/36> ;
+    idmp:name "ATORVASTATIN SANDOZ 20 MG" ;
+    idmp:registrationNumber "1C 14/52(NG)" .
+
+<http://example.org/idmp/93> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/36> ;
+    idmp:name "ATORVASTATIN SANDOZ 40 MG" ;
+    idmp:registrationNumber "1C 15/52(NG)" .
+
+<http://example.org/idmp/94> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/36> ;
+    idmp:name "ATORVASTATIN SANDOZ 10 MG" ;
+    idmp:registrationNumber "1C 21/52(NG)" .
+
+<http://example.org/idmp/95> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/20> ;
+    idmp:name "CHLOVAS-40" ;
+    idmp:registrationNumber "1A 37/56(NG)" .
+
+<http://example.org/idmp/96> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "LIPOSTAT (10 MG TABLET)" ;
+    idmp:registrationNumber "1A 22/62(NG)" .
+
+<http://example.org/idmp/97> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "LIPOSTAT (20 MG TABLET)" ;
+    idmp:registrationNumber "1A 23/62(NG)" .
+
+<http://example.org/idmp/98> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/6> ;
+    idmp:name "LIPOSTAT (40 MG TABLET)" ;
+    idmp:registrationNumber "1A 24/62(NG)" .
+
+<http://example.org/idmp/99> a idmp:MedicinalProduct ;
+    idmp:manufacturedBy <http://example.org/idmp/manufacturer/21> ;
+    idmp:name "TOVASTIN 20" ;
+    idmp:registrationNumber "1A 43/62(NG)" .
+
+<http://example.org/idmp/manufacturer/1> a idmp:Manufacturer ;
+    idmp:name "Mylan Laboratories Limited (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/100> a idmp:Manufacturer ;
+    idmp:name "Nutra Manufacturing, Inc. (United States of America)" .
+
+<http://example.org/idmp/manufacturer/102> a idmp:Manufacturer ;
+    idmp:name "Rota Laboratories Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/105> a idmp:Manufacturer ;
+    idmp:name "LES Laboratoires Servier Industrie (French Republic)" .
+
+<http://example.org/idmp/manufacturer/107> a idmp:Manufacturer ;
+    idmp:name "Lerd Singh Pharmaceutical Factory Ltd., Part." .
+
+<http://example.org/idmp/manufacturer/108> a idmp:Manufacturer ;
+    idmp:name "Pfizer Italia S.r.l. (Republic of Italy)" .
+
+<http://example.org/idmp/manufacturer/111> a idmp:Manufacturer ;
+    idmp:name "Advance Pharmaceutical Manufacturing Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/113> a idmp:Manufacturer ;
+    idmp:name "Chankit Trading Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/122> a idmp:Manufacturer ;
+    idmp:name "Glaxo Operations UK Ltd. (United Kingdom of Great Britain and Northern Ireland)" .
+
+<http://example.org/idmp/manufacturer/125> a idmp:Manufacturer ;
+    idmp:name "Pondโ€s Chemical Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/126> a idmp:Manufacturer ;
+    idmp:name "Synthon Hispania S.L. (Kingdom of Spain)" .
+
+<http://example.org/idmp/manufacturer/127> a idmp:Manufacturer ;
+    idmp:name "UCB Farchim S.A. (Swiss Confederation)" .
+
+<http://example.org/idmp/manufacturer/130> a idmp:Manufacturer ;
+    idmp:name "Tablets (India) Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/131> a idmp:Manufacturer ;
+    idmp:name "Merck Sharp & Dohme Ltd. (United Kingdom of Great Britain and Northern Ireland)" .
+
+<http://example.org/idmp/manufacturer/132> a idmp:Manufacturer ;
+    idmp:name "Suphong Bhaesaj Ltd. Part." .
+
+<http://example.org/idmp/manufacturer/133> a idmp:Manufacturer ;
+    idmp:name "Dalim Biotech Co., Ltd. (Republic of Korea)" .
+
+<http://example.org/idmp/manufacturer/134> a idmp:Manufacturer ;
+    idmp:name "PT. Novell Pharmaceutical Laboratories (Republic of Indonesia)" .
+
+<http://example.org/idmp/manufacturer/136> a idmp:Manufacturer ;
+    idmp:name "Kopran Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/138> a idmp:Manufacturer ;
+    idmp:name "Labiana Pharmaceuticals S.L.U. (Kingdom of Spain)" .
+
+<http://example.org/idmp/manufacturer/142> a idmp:Manufacturer ;
+    idmp:name "IPR Pharmaceuticals Inc. (Commonwealth of Puerto Rico)" .
+
+<http://example.org/idmp/manufacturer/144> a idmp:Manufacturer ;
+    idmp:name "Organon Pharma (UK) Ltd., (United Kingdom of Great Britain and Northern Ireland)" .
+
+<http://example.org/idmp/manufacturer/145> a idmp:Manufacturer ;
+    idmp:name "A.N.B. Laboratories Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/146> a idmp:Manufacturer ;
+    idmp:name "Torrent Pharmaceuticals Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/147> a idmp:Manufacturer ;
+    idmp:name "Recipharm Uppsala AB (Kingdom of Sweden)" .
+
+<http://example.org/idmp/manufacturer/148> a idmp:Manufacturer ;
+    idmp:name "AstraZeneca AB, (Kingdom of Sweden)" .
+
+<http://example.org/idmp/manufacturer/149> a idmp:Manufacturer ;
+    idmp:name "Alcon-Couvreur (Kingdom of Belgium)" .
+
+<http://example.org/idmp/manufacturer/150> a idmp:Manufacturer ;
+    idmp:name "Centaur Pharmaceuticals Pvt. Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/151> a idmp:Manufacturer ;
+    idmp:name "Pharmathen SA, Greece" .
+
+<http://example.org/idmp/manufacturer/152> a idmp:Manufacturer ;
+    idmp:name "Farmaceutici Formenti S.p.A. (Republic of Italy)" .
+
+<http://example.org/idmp/manufacturer/154> a idmp:Manufacturer ;
+    idmp:name "Panapat Healthcare Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/155> a idmp:Manufacturer ;
+    idmp:name "Pabon Hospital" .
+
+<http://example.org/idmp/manufacturer/156> a idmp:Manufacturer ;
+    idmp:name "Huai Yot Hospital" .
+
+<http://example.org/idmp/manufacturer/158> a idmp:Manufacturer ;
+    idmp:name "Khaolaor Laboratories Co., Ltd" .
+
+<http://example.org/idmp/manufacturer/159> a idmp:Manufacturer ;
+    idmp:name "Chao Phya Abhaibhubejhr Hospital Foundation" .
+
+<http://example.org/idmp/manufacturer/160> a idmp:Manufacturer ;
+    idmp:name "La-ngu Hospital" .
+
+<http://example.org/idmp/manufacturer/26> a idmp:Manufacturer ;
+    idmp:name "North China Pharmaceutical Co., Ltd. (Peopleโ€s Republic of China)" .
+
+<http://example.org/idmp/manufacturer/27> a idmp:Manufacturer ;
+    idmp:name "Sandoz GmbH (Republic of Austria)" .
+
+<http://example.org/idmp/manufacturer/37> a idmp:Manufacturer ;
+    idmp:name "Excella GmbH (Federal Republic of Germany)" .
+
+<http://example.org/idmp/manufacturer/39> a idmp:Manufacturer ;
+    idmp:name "Teva Czech Industries s.r.o. (Czech Republic)" .
+
+<http://example.org/idmp/manufacturer/41> a idmp:Manufacturer ;
+    idmp:name "Novartis Farma S.p.A. (Republic of Italy)" .
+
+<http://example.org/idmp/manufacturer/45> a idmp:Manufacturer ;
+    idmp:name "Delpharm Novara S.r.L. (Republic of Italy)" .
+
+<http://example.org/idmp/manufacturer/47> a idmp:Manufacturer ;
+    idmp:name "Reyoung Pharmaceutical Co., Ltd. (Peopleโ€s Republic of China)" .
+
+<http://example.org/idmp/manufacturer/48> a idmp:Manufacturer ;
+    idmp:name "NCPC Hebei Huamin Pharmaceutical Co., Ltd., China" .
+
+<http://example.org/idmp/manufacturer/49> a idmp:Manufacturer ;
+    idmp:name "Sinopharm Zhijun (Shenzhen) Pharmaceutical Co., Ltd., China" .
+
+<http://example.org/idmp/manufacturer/50> a idmp:Manufacturer ;
+    idmp:name "Glaxo Wellcome Operations (United Kingdom of Great Britain and Northern Ireland)" .
+
+<http://example.org/idmp/manufacturer/54> a idmp:Manufacturer ;
+    idmp:name "Apotex Inc. (Canada)" .
+
+<http://example.org/idmp/manufacturer/55> a idmp:Manufacturer ;
+    idmp:name "Cadila Pharmaceuticals Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/56> a idmp:Manufacturer ;
+    idmp:name "2M (Med-Maker) Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/60> a idmp:Manufacturer ;
+    idmp:name "Encube Ethicals Pvt., Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/64> a idmp:Manufacturer ;
+    idmp:name "Thai Japan Laboratories Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/67> a idmp:Manufacturer ;
+    idmp:name "Bayer AG (Federal Republic of Germany)" .
+
+<http://example.org/idmp/manufacturer/70> a idmp:Manufacturer ;
+    idmp:name "Hawon Pharmaceutical Corperation (Democratic Peopleโ€s Republic of Korea)" .
+
+<http://example.org/idmp/manufacturer/71> a idmp:Manufacturer ;
+    idmp:name "Thai Meiji Pharmaceutical Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/74> a idmp:Manufacturer ;
+    idmp:name "Lincoln Parenterals Pvt. Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/75> a idmp:Manufacturer ;
+    idmp:name "Novartis Pharma Stein AG (Swiss Confederation)" .
+
+<http://example.org/idmp/manufacturer/76> a idmp:Manufacturer ;
+    idmp:name "Aroma Ilac San. Ltd. Sti. (Republic of Turkey)" .
+
+<http://example.org/idmp/manufacturer/80> a idmp:Manufacturer ;
+    idmp:name "Cilag AG (Switzerland)" .
+
+<http://example.org/idmp/manufacturer/81> a idmp:Manufacturer ;
+    idmp:name "CJ Cheiljedang Corporation (Democratic Peopleโ€s Republic of Korea)" .
+
+<http://example.org/idmp/manufacturer/82> a idmp:Manufacturer ;
+    idmp:name "Daewoong Pharmaceutical Co., Ltd. (Republic of Korea)" .
+
+<http://example.org/idmp/manufacturer/83> a idmp:Manufacturer ;
+    idmp:name "Dong-A ST Co., Ltd. (Republic of Korea)" .
+
+<http://example.org/idmp/manufacturer/85> a idmp:Manufacturer ;
+    idmp:name "Shenyang Sunshine Pharmaceutical Co., Ltd. (Peopleโ€s Republic of China)" .
+
+<http://example.org/idmp/manufacturer/86> a idmp:Manufacturer ;
+    idmp:name "ShenZhen Sciprogen Biopharmaceutical Co., Ltd. (Peopleโ€s Republic of China)" .
+
+<http://example.org/idmp/manufacturer/87> a idmp:Manufacturer ;
+    idmp:name "IDT Biologika GmbH, Federal Republic of Germany" .
+
+<http://example.org/idmp/manufacturer/89> a idmp:Manufacturer ;
+    idmp:name "Sandoz Private Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/90> a idmp:Manufacturer ;
+    idmp:name "Medopharm (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/95> a idmp:Manufacturer ;
+    idmp:name "AIAC International Pharma, LLC (United States of America)" .
+
+<http://example.org/idmp/manufacturer/96> a idmp:Manufacturer ;
+    idmp:name "Mega Lifesciences Public Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/97> a idmp:Manufacturer ;
+    idmp:name "Blackmores Ltd. (Commonwealth of Australia)" .
+
+<http://example.org/idmp/manufacturer/10> a idmp:Manufacturer ;
+    idmp:name "Aspen Bad Oldesloe GmbH (Federal Republic of Germany)" .
+
+<http://example.org/idmp/manufacturer/103> a idmp:Manufacturer ;
+    idmp:name "Sanofi Aventis Pakistan Limited (Islamic Republic of Pakistan)" .
+
+<http://example.org/idmp/manufacturer/109> a idmp:Manufacturer ;
+    idmp:name "Gland Pharma Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/110> a idmp:Manufacturer ;
+    idmp:name "Sanofi-Aventis S.A. (Kingdom of Spain)" .
+
+<http://example.org/idmp/manufacturer/112> a idmp:Manufacturer ;
+    idmp:name "Modern Pharma Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/117> a idmp:Manufacturer ;
+    idmp:name "Bioton S.A. (Republic of Poland)" .
+
+<http://example.org/idmp/manufacturer/124> a idmp:Manufacturer ;
+    idmp:name "UCB Pharma S.A. (Kingdom of Belgium)" .
+
+<http://example.org/idmp/manufacturer/128> a idmp:Manufacturer ;
+    idmp:name "Lam Thong Karnpat Pharmaceutical Factory Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/137> a idmp:Manufacturer ;
+    idmp:name "Pharma Innova Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/139> a idmp:Manufacturer ;
+    idmp:name "Samarth Life Sciences Pvt. Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/14> a idmp:Manufacturer ;
+    idmp:name "Troikaa Pharmaceutical Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/140> a idmp:Manufacturer ;
+    idmp:name "Bayer PHARMA AG (Federal Republic of Germany)" .
+
+<http://example.org/idmp/manufacturer/143> a idmp:Manufacturer ;
+    idmp:name "Inter Pharma Public Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/153> a idmp:Manufacturer ;
+    idmp:name "Kaewmungkorn Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/157> a idmp:Manufacturer ;
+    idmp:name "Thai Herbal Products" .
+
+<http://example.org/idmp/manufacturer/38> a idmp:Manufacturer ;
+    idmp:name "Remedica Ltd. (Republic of Cyprus)" .
+
+<http://example.org/idmp/manufacturer/51> a idmp:Manufacturer ;
+    idmp:name "Inpac Pharma Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/58> a idmp:Manufacturer ;
+    idmp:name "Chinta Trading (1971) Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/59> a idmp:Manufacturer ;
+    idmp:name "Continental Pharm Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/7> a idmp:Manufacturer ;
+    idmp:name "Forty Two Siam Medicare Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/72> a idmp:Manufacturer ;
+    idmp:name "Seng Thai Company Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/77> a idmp:Manufacturer ;
+    idmp:name "Bushu Pharmaceuticals Ltd. Misato Factory (Japan)" .
+
+<http://example.org/idmp/manufacturer/78> a idmp:Manufacturer ;
+    idmp:name "Sandoz Pvt. Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/84> a idmp:Manufacturer ;
+    idmp:name "LG Chem, Ltd. (Republic of Korea)" .
+
+<http://example.org/idmp/manufacturer/91> a idmp:Manufacturer ;
+    idmp:name "MSD International GmbH (Commonwealth of Puerto Rico)" .
+
+<http://example.org/idmp/manufacturer/92> a idmp:Manufacturer ;
+    idmp:name "Meditab Specialities Pvt. Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/93> a idmp:Manufacturer ;
+    idmp:name "Bio Sidus S.A. (Argentine Republic)" .
+
+<http://example.org/idmp/manufacturer/94> a idmp:Manufacturer ;
+    idmp:name "Intas Pharmaceuticals Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/104> a idmp:Manufacturer ;
+    idmp:name "Able Medical Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/11> a idmp:Manufacturer ;
+    idmp:name "Pondโ€s Chemical (Thailand) R.O.P." .
+
+<http://example.org/idmp/manufacturer/114> a idmp:Manufacturer ;
+    idmp:name "V.S. Pharma (1971) Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/115> a idmp:Manufacturer ;
+    idmp:name "M.J. Biopharm Pvt. Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/116> a idmp:Manufacturer ;
+    idmp:name "Biocon Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/118> a idmp:Manufacturer ;
+    idmp:name "Novo Nordisk A/S (Kingdom of Denmark)" .
+
+<http://example.org/idmp/manufacturer/119> a idmp:Manufacturer ;
+    idmp:name "Novo Nordisk Producao Farmaceutica Do Brasil Ltda. (Federative Republic of Brazil)" .
+
+<http://example.org/idmp/manufacturer/120> a idmp:Manufacturer ;
+    idmp:name "Wockhardt Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/123> a idmp:Manufacturer ;
+    idmp:name "Kenyaku (Thailand) Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/135> a idmp:Manufacturer ;
+    idmp:name "Daiichi Sankyo Europe GmbH (Federal Republic of Germany)" .
+
+<http://example.org/idmp/manufacturer/22> a idmp:Manufacturer ;
+    idmp:name "Unique Pharmaceutical Laboratories (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/40> a idmp:Manufacturer ;
+    idmp:name "Macrophar Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/46> a idmp:Manufacturer ;
+    idmp:name "Modern Manu Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/62> a idmp:Manufacturer ;
+    idmp:name "Nida Pharma Incorporation Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/65> a idmp:Manufacturer ;
+    idmp:name "V & P Laboratory Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/68> a idmp:Manufacturer ;
+    idmp:name "Charoen Bhaesaj Lab Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/73> a idmp:Manufacturer ;
+    idmp:name "Vesco Pharmaceutical Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/98> a idmp:Manufacturer ;
+    idmp:name "Interthai Pharmaceutical Manufacturing Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/101> a idmp:Manufacturer ;
+    idmp:name "Pharma Supply Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/121> a idmp:Manufacturer ;
+    idmp:name "GlaxoSmithKline Pharmaceuticals S.A. (Republic of Poland)" .
+
+<http://example.org/idmp/manufacturer/24> a idmp:Manufacturer ;
+    idmp:name "Medreich Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/31> a idmp:Manufacturer ;
+    idmp:name "Asian Pharmaceutical Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/35> a idmp:Manufacturer ;
+    idmp:name "The British Dispensary (L.P.) Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/66> a idmp:Manufacturer ;
+    idmp:name "B.L. Hua Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/79> a idmp:Manufacturer ;
+    idmp:name "Center for Molecular Immunology (CIM) (Republic of Cuba)" .
+
+<http://example.org/idmp/manufacturer/99> a idmp:Manufacturer ;
+    idmp:name "Medicine Products Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/106> a idmp:Manufacturer ;
+    idmp:name "PT Aventis Pharma (Republic of Indonesia)" .
+
+<http://example.org/idmp/manufacturer/12> a idmp:Manufacturer ;
+    idmp:name "T.O. Pharma Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/129> a idmp:Manufacturer ;
+    idmp:name "Greater Pharma Manufacturing Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/141> a idmp:Manufacturer ;
+    idmp:name "Novartis Farmacรฉutica S.A. (Kingdom of Spain)" .
+
+<http://example.org/idmp/manufacturer/28> a idmp:Manufacturer ;
+    idmp:name "Sun Pharmaceutical Industries Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/36> a idmp:Manufacturer ;
+    idmp:name "Lek Pharmaceuticals D.D. (Republic of Slovenia)" .
+
+<http://example.org/idmp/manufacturer/57> a idmp:Manufacturer ;
+    idmp:name "Burapha Dispensary Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/13> a idmp:Manufacturer ;
+    idmp:name "Sanofi Winthrop Industrie (French Republic)" .
+
+<http://example.org/idmp/manufacturer/2> a idmp:Manufacturer ;
+    idmp:name "Bangkok Lab & Cosmetic Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/29> a idmp:Manufacturer ;
+    idmp:name "Biolab Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/17> a idmp:Manufacturer ;
+    idmp:name "T.P. Drug Laboratories (1969) Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/30> a idmp:Manufacturer ;
+    idmp:name "General Drugs House Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/32> a idmp:Manufacturer ;
+    idmp:name "Olic (Thailand) Ltd." .
+
+<http://example.org/idmp/manufacturer/44> a idmp:Manufacturer ;
+    idmp:name "Umeda Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/88> a idmp:Manufacturer ;
+    idmp:name "Siam Bioscience Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/25> a idmp:Manufacturer ;
+    idmp:name "R.X. Manufacturing Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/33> a idmp:Manufacturer ;
+    idmp:name "Osoth Inter Laboratories Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/9> a idmp:Manufacturer ;
+    idmp:name "Cadila Healthcare Ltd. (Republic of India)" .
+
+<http://example.org/idmp/manufacturer/43> a idmp:Manufacturer ;
+    idmp:name "M & H Manufacturing Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/61> a idmp:Manufacturer ;
+    idmp:name "L.B.S. Laboratory Ltd., Part." .
+
+<http://example.org/idmp/manufacturer/34> a idmp:Manufacturer ;
+    idmp:name "Patar Lab (2517) Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/69> a idmp:Manufacturer ;
+    idmp:name "Atlantic Laboratories Corp., Ltd." .
+
+<http://example.org/idmp/manufacturer/15> a idmp:Manufacturer ;
+    idmp:name "New Life Pharma Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/53> a idmp:Manufacturer ;
+    idmp:name "The Medicpharma Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/3> a idmp:Manufacturer ;
+    idmp:name "Community Pharmacy Public Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/18> a idmp:Manufacturer ;
+    idmp:name "Utopian Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/52> a idmp:Manufacturer ;
+    idmp:name "Thai Nakorn Patana Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/63> a idmp:Manufacturer ;
+    idmp:name "Seven Stars Pharmaceutical Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/20> a idmp:Manufacturer ;
+    idmp:name "Millimed Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/21> a idmp:Manufacturer ;
+    idmp:name "T.O. Chemicals (1979) Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/42> a idmp:Manufacturer ;
+    idmp:name "Sriprasit Pharma Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/16> a idmp:Manufacturer ;
+    idmp:name "T. Man Pharma Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/5> a idmp:Manufacturer ;
+    idmp:name "Polipharm Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/19> a idmp:Manufacturer ;
+    idmp:name "Berlin Pharmaceutical Industry Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/23> a idmp:Manufacturer ;
+    idmp:name "Unison Laboratories Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/4> a idmp:Manufacturer ;
+    idmp:name "Pharmasant Laboratories Co., Ltd." .
+
+<http://example.org/idmp/manufacturer/8> a idmp:Manufacturer ;
+    idmp:name "The Government Pharmaceutical Organization (GPO)" .
+
+<http://example.org/idmp/manufacturer/6> a idmp:Manufacturer ;
+    idmp:name "Siam Bheasach Co., Ltd." .
+

@@ -1,0 +1,11 @@
+.venv
+__pycache__
+
+# node.js
+node_modules
+
+staticfiles
+
+.env
+.env.*
+!.env.example
