@@ -1,8 +1,8 @@
 databases:
   - name: mysitedb
     plan: free
-    databaseName: mysite
-    user: mysite
+    databaseName: idmp-reasoner
+    user: idmp_reasoner_user
 
 services:
   - type: web
