@@ -4,7 +4,7 @@ from django.http import JsonResponse
 from .models import MedicinalProduct, Substance, Manufacturer
 
 
-def graph_data(request):
+def graph_data(request) -> JsonResponse:
     nodes = []
     links = []
 

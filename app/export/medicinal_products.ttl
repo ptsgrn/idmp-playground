@@ -503,7 +503,7 @@
 <http://example.org/idmp/19> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
     idmp:name "ALPRAZOLAM (1.0 MG)" ;
-    idmp:registrationNumber "na-da17da3f18a2f4293117844a060cd0" .
+    idmp:registrationNumber "na-e337c1d23ff16a00d3cbe8807cb89c" .
 
 <http://example.org/idmp/190> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/16> ;
@@ -563,7 +563,7 @@
 <http://example.org/idmp/20> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;
     idmp:name "ALPRAZOLAM 0.5 MG" ;
-    idmp:registrationNumber "na-0e800b06de378db3ea3548e8d30673" .
+    idmp:registrationNumber "na-afbff51d539ddb8fffc8c866ca7266" .
 
 <http://example.org/idmp/200> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
@@ -618,7 +618,7 @@
 <http://example.org/idmp/21> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
     idmp:name "ALPRAZOLAM (0.25 MG)" ;
-    idmp:registrationNumber "na-d5bcaeda1d0e24cdeca2ee4cb0399a" .
+    idmp:registrationNumber "na-15cd0e9f61eb351bd355eab124cfe6" .
 
 <http://example.org/idmp/210> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/72> ;
@@ -673,7 +673,7 @@
 <http://example.org/idmp/22> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/4> ;
     idmp:name "ALPRAZOLAM (0.5 MG)" ;
-    idmp:registrationNumber "na-5c6dd2be7e1b3cdf36a3e7786189be" .
+    idmp:registrationNumber "na-704855199c4fd29fa2ef59fc942b22" .
 
 <http://example.org/idmp/220> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
@@ -3043,12 +3043,12 @@
 <http://example.org/idmp/647> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/43> ;
     idmp:name "MORPHINE SULFATE INJECTION" ;
-    idmp:registrationNumber "na-a08ac62275c8f44da803684e1d5987" .
+    idmp:registrationNumber "na-47351d3918c2301445afa8bd0b6590" .
 
 <http://example.org/idmp/648> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/8> ;
     idmp:name "MORPHINE SULFATE IR TABLETS 10 MG" ;
-    idmp:registrationNumber "na-9569edda4786c7d246712edbb32712" .
+    idmp:registrationNumber "na-9bdaf556e565862716edf2b63bfcbc" .
 
 <http://example.org/idmp/649> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/58> ;
@@ -4163,7 +4163,7 @@
 <http://example.org/idmp/849> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/160> ;
     idmp:name "เธขเธฒเธชเธกเธธเธเนเธเธฃเธเธเธดเธ”เนเธเธเธเธนเธฅเน€เธ–เธฒเธงเธฑเธฅเธขเนเน€เธเธฃเธตเธขเธ 400 เธกเธดเธฅเธฅเธดเธเธฃเธฑเธก" ;
-    idmp:registrationNumber "na-4e46446efc95c20095828dbbdda808" .
+    idmp:registrationNumber "na-886b50b7148b980d0ffd5c6a2662c0" .
 
 <http://example.org/idmp/85> a idmp:MedicinalProduct ;
     idmp:manufacturedBy <http://example.org/idmp/manufacturer/5> ;

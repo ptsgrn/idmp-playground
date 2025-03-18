@@ -98,7 +98,7 @@ DATABASES = {
     'default': dj_database_url.config(
         # Replace this value with your local database's connection string.
         default=os.getenv(
-            "DATABASE_URL", 'postgresql://postgres:example@localhost:5432/postgres'),
+            "DATABASE_URL", 'postgresql://postgres:changeme@localhost:5442/postgres'),
         conn_max_age=600
     )
 }
